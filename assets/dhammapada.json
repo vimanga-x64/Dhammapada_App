@@ -1,0 +1,3859 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Chapter 1 - Yamaka Vagga (Twin Verses)",
+      "verses": [
+        {
+          "id": "1:1",
+          "verse_number": 1,
+          "story_title": "The story of the monk Cakkhupāla",
+          "text": {
+            "pali": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; manasā ce paduṭṭhena, bhāsati vā karoti vā. Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.",
+            "en_translator_a": "All mental phenomena have mind as their forerunner; they have the mind as their chief; they are mind-made. If one speaks or acts with an evil mind, 'dukkha' 3 follows him just as the wheel follows the hoofprint of the ox that draws the cart."
+          }
+        },
+        {
+          "id": "1:2",
+          "verse_number": 2,
+          "story_title": "The Story of Maṭṭakuṇḍali",
+          "text": {
+            "pali": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; manasā ce pasannena, bhāsati vā karoti vā. Tato naṃ sukhamanveti, chāyāva anapāyinī.",
+            "en_translator_a": "All mental phenomena have mind as their forerunner; they have mind as their chief; they are mind-made. If one speaks or acts with a pure mind, happiness (sukha) follows him like a shadow that never leaves him."
+          }
+        },
+        {
+          "id": "1:3",
+          "verse_number": 3,
+          "story_title": "The Story of Monk Tissa",
+          "text": {
+            "pali": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me; ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.",
+            "en_translator_a": "“He abused me, he ill-treated me, he got the better of me, he stole my belongings” — the enmity of those harbouring such thoughts cannot be appeased."
+          }
+        },
+        {
+          "id": "1:4",
+          "verse_number": 4,
+          "story_title": "The Story of Monk Tissa",
+          "text": {
+            "pali": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me; ye ca taṃ nupanayhanti, veraṃ tesūpasammati.",
+            "en_translator_a": "“He abused me, he struck me, he overpowered me, he robbed me” — those who do not harbor such thoughts still their hatred."
+          }
+        },
+        {
+          "id": "1:5",
+          "verse_number": 5,
+          "story_title": "The Story of Kāliyakkhinī",
+          "text": {
+            "pali": "Na hi verena verāni, sammantīdha kudācanaṃ; averena ca sammanti, esa dhammo sanantano.",
+            "en_translator_a": " Hatred is, indeed, never appeased by hatred in this world. It is appeased only by loving-kindness. This is an eternal law."
+          }
+        },
+        {
+          "id": "1:6",
+          "verse_number": 6,
+          "story_title": "The Story of Kosambi Monks",
+          "text": {
+            "pali": "Pare ca na vijānanti, mayamettha yamāmase; ye ca tattha vijānanti, tato sammanti medhagā.",
+            "en_translator_a": "People, other than the wise, do not realize, \"We in this world must all die,\" (and, not realizing it, continue their quarrels). The wise realize it and thereby their quarrels cease."
+          }
+        },
+        {
+          "id": "1:7",
+          "verse_number": 7,
+          "story_title": "The Story of Monk Mahākāla",
+          "text": {
+            "pali": "Subhanupassim viharantam\nindriyesu asamvutam\nbhojanamhi camattannum\nkusitam hinaviriyam\ntam ve pasahati Maro\nvato rukkhamva dubbalam.",
+            "en_translator_a": "The good person who is mindful, restrained in the senses, moderate in eating, and diligent in effort, him Mara (the Evil One) cannot overpower, just as the wind cannot uproot a mountain."
+          }
+        },
+        {
+          "id": "1:8",
+          "verse_number": 8,
+          "story_title": "The Story of Monk Mahākāla",
+          "text": {
+            "pali": "Asubhanupassim viharantam\nindriyesu susamvutam\nbhojanamhi ca mattannum\nsaddham2 araddhaviriyam\ntam ve nappasahati Maro\nvato selamva pabbatam.",
+            "en_translator_a": "He who keeps his mind on the impurities (of the body), who is well-controlled in his senses and is full of faith and energy, will certainly be not overwhelmed by Mara, just as stormy winds cannot shake a mountain of rock."
+          }
+        },
+        {
+          "id": "1:9",
+          "verse_number": 9,
+          "story_title": "The Story of Devadatta",
+          "text": {
+            "pali": "Anikkasavo kasavam\nyo vattham paridahissati\napeto damasaccena\nna so kasavamarahati.",
+            "en_translator_a": "He who is not free from taints of moral defilements (kilesas) and yet dons the yellow robe, who lacks restraint in his senses and (speaks not the) truth is unworthy of the yellow robe."
+          }
+        },
+        {
+          "id": "1:10",
+          "verse_number": 10,
+          "story_title": "The Story of Devadatta",
+          "text": {
+            "pali": "Yo ca vantakasav'assa\nsilesu susamahito\nupeto damasaccena\nsa ve kasavamarahati.",
+            "en_translator_a": "He who is free from taints of moral defilements (kilesas) and is well-restrained in his senses, who is full of faith and energy, he is indeed worthy of the yellow robe."
+          }
+        },
+        {
+          "id": "1:11",
+          "verse_number": 11,
+          "story_title": "The Story of Monk Sāriputta",
+          "text": {
+            "pali": "Asaresaramatino\nsarecasaradassino\nte saram nadhigacchanti\nmicchasankappagocara.",
+            "en_translator_a": "They take untruth for truth; they take truth for untruth; such persons can never arrive at the truth, for they hold wrong views."
+          }
+        },
+        {
+          "id": "1:12",
+          "verse_number": 12,
+          "story_title": "The Story of Monk Sāriputta",
+          "text": {
+            "pali": "Saranca sarato natva\nasaranca adhigacchanti\nte saram adhigacchanti\nsammasankappagocara.",
+            "en_translator_a": "They take the truth for the truth; they take the untruth for the untruth; such persons can arrive at the truth, for they hold right views."
+          }
+        },
+        {
+          "id": "1:13",
+          "verse_number": 13,
+          "story_title": "The Story of Monk Nanda",
+          "text": {
+            "pali": "Yatha agaram ducchannam\nvutthi samativijjhati\nevam abhavitam cittam\nrago samativijjhati.",
+            "en_translator_a": "Just as rain penetrates a badly-roofed house, so also, passion (raga) penetrates a mind not cultivated in Tranquillity and Insight Development (Samatha and Vipassana)."
+          }
+        },
+        {
+          "id": "1:14",
+          "verse_number": 14,
+          "story_title": "The Story of Monk Nanda",
+          "text": {
+            "pali": "Yatha agaram suchannam\nvutthi na samativijjhati\nevam subhavitam cittam\nrago na samativijjhati.",
+            "en_translator_a": "Just as rain cannot penetrate a well-roofed house, so also, passion (raga) cannot penetrate a mind well-cultivated in Tranquillity and Insight Development (Samatha and Vipassa)."
+          }
+        },
+        {
+          "id": "1:15",
+          "verse_number": 15,
+          "story_title": "The Story of Cundasūkarika",
+          "text": {
+            "pali": "Idha socati pecca socati\npapakari ubhayattha socati\nso socati so vihannati\ndisva kammakilitthamattano.",
+            "en_translator_a": "Here he grieves, hereafter he grieves; the evil-doer grieves in both existences. He grieves and he suffers anguish when he sees the depravity of his own deeds."
+          }
+        },
+        {
+          "id": "1:16",
+          "verse_number": 16,
+          "story_title": "The Story of Dhammika Upāsaka",
+          "text": {
+            "pali": "Idha modati pecca modati\nkatapunno ubhayattha modati\nso modati so pamodati\ndisva kammavisuddhimattano.",
+            "en_translator_a": "Here he rejoices, hereafter he rejoices; one who performed meritorious deeds rejoices in both existences. He rejoices and greatly rejoices when he sees the purity of his own deeds."
+          }
+        },
+        {
+          "id": "1:17",
+          "verse_number": 17,
+          "story_title": "The Story of Devadatta",
+          "text": {
+            "pali": "Idha tappati pecca tappati\npapakari ubhayattha tappati\npapam me katanti tappati\nbhiyyo tappati duggatim gato.",
+            "en_translator_a": "Here he is tormented, hereafter he is tormented; the evil-doer is tormented in both existences. He is tormented, and he laments: \"Evil have I done.\" He is even more tormented when he is reborn in one of the lower worlds (Apaya)."
+          }
+        },
+        {
+          "id": "1:18",
+          "verse_number": 18,
+          "story_title": "The Story of Sumanādevi",
+          "text": {
+            "pali": "Idha nandati pecca nandati\nkatapunno ubhayattha nandati\npunnam me katanti nandati\nbhiyyo nandati suggatim gato.",
+            "en_translator_a": "Here he is happy, hereafter he is happy; one who performs meritorious deeds is happy in both existences. Happily he exclaims: I have done meritorious deeds.\" He is happier still when he is reborn in a higher world (suggati)."
+          }
+        },
+        {
+          "id": "1:19",
+          "verse_number": 19,
+          "story_title": "The Story of Two Friends",
+          "text": {
+            "pali": "Bahumpi ce samhita bhasamano\nna takkaro hoti naro pamatto\ngopova gavo ganayam paresam\nna bhagava samannassa hoti.",
+            "en_translator_a": "Though he recites much the Sacred Texts (Tipitaka), but is negligent and does not practise according to the Dhamma, like a cowherd who counts the cattle of others, he has no share in the benefits of the life of a bhikkhu (i.e., Magga-phala)."
+          }
+        },
+        {
+          "id": "1:20",
+          "verse_number": 20,
+          "story_title": "The Story of Two Friends",
+          "text": {
+            "pali": "Appampi ce samhita bhasamano\ndhammassa hoti anudhammacari\nraganca dosanca pahaya moham\nsammappajano suvimuttacitto\nanupadiyano idha va haram va\nsa bhagava samannassa hoti.",
+            "en_translator_a": "Though he recites only a little of the Sacred Texts (Tipitaka), but practises according to the Dhamma, eradicating passion, ill will and ignorance, clearly comprehending the Dhamma, with his mind freed from moral defilements and no longer clinging to this world or to the next, he shares the benefits of the life of a bhikkhu (i.e., Magga-phala)."
+          }
+        }
+      ]
+    },
+    {
+"id": 2,
+"title": "Chapter 2 - Vigilance (Appamādavagga)",
+"verses": [
+{
+"id": "2:21",
+"verse_number": 21,
+"story_title": "The Story of Sāmāvati",
+"text": {
+"pali": "Appamādo amatapadaṁ, pamādo maccuno padaṁ; Appamattā na mīyanti, ye pamattā yathā matā.",
+"en_translator_a": "Appamada is the Path to the Deathless, heedlessness the Path to Death. Those who are heedful do not die; the heedless are as if dead already."
+}
+},
+{
+"id": "2:22",
+"verse_number": 22,
+"story_title": "The Story of Sāmāvati",
+"text": {
+"pali": "Etaṁ visesato ñatvā, appamādamhi paṇḍitā; Appamāde pamodanti, ariyānaṁ gocare ratā.",
+"en_translator_a": "Having understood this clearly, the wise rejoice in heedfulness, delighting in the domain of the Noble Ones."
+}
+},
+{
+"id": "2:23",
+"verse_number": 23,
+"story_title": "The Story of Sāmāvati",
+"text": {
+"pali": "Te jhāyino sātatikā, niccaṁ daḷhaparakkamā; Phusanti dhīrā nibbānaṁ, yogakkhemaṁ anuttaraṁ.",
+"en_translator_a": "The constant meditators, persevering, constantly firm in effort, attain Nibbana, the supreme peace from the bonds."
+}
+},
+{
+"id": "2:24",
+"verse_number": 24,
+"story_title": "The Story of Kumbhaghosaka, the Banker",
+"text": {
+"pali": "Uṭṭhānavato satīmato, sucikammassa nisammakārino; Saññatassa dhammajīvino, appamattassa yaso’bhivaḍḍhati.",
+"en_translator_a": "By effort, by heedfulness, by restraint and self-control, the wise man can make for himself an island which no flood can overwhelm."
+}
+},
+{
+"id": "2:25",
+"verse_number": 25,
+"story_title": "The Story of Cūlapanthaka",
+"text": {
+"pali": "Uṭṭhānen'appamādena, saññamena damena ca; Dīpaṁ kayirātha medhāvī, yaṁ ogho nābhikīrati.",
+"en_translator_a": "Youth is like spring, man's age like autumn; but spring is short, autumn is long. Therefore the wise should do good deeds in youth."
+}
+},
+{
+"id": "2:26",
+"verse_number": 26,
+"story_title": " The Story of Bāla Nakkhatta Festival",
+"text": {
+"pali": "Pamāde viharanti bālā, pāmojjabahulā narā; Appamādamhi paṇḍitā, sukhaṁ gacchanti āsīdā.",
+"en_translator_a": "Let the fool indulge in heedlessness; the wise man should be heedful. The fool will regret his heedlessness; the wise man rejoices in heedfulness."
+}
+},
+{
+"id": "2:27",
+"verse_number": 27,
+"story_title": " The Story of Bāla Nakkhatta Festival",
+"text": {
+"pali": "Na hi pamodo hoti ñātī, pamattā hi naṃ paṭibhāti; Appamattā ca medhāvī, pamādaṁ daḷham aṭṭhiti.",
+"en_translator_a": "Do not associate with heedless people, nor with those who indulge in heedlessness. Associate with the heedful, the wise."
+}
+},
+{
+"id": "2:28",
+"verse_number": 28,
+"story_title": "The Story of Monk Mahākassapa",
+"text": {
+"pali": "Appamādo amatapadaṁ, pamādo maccuno padaṁ; Appamattā na mīyanti, ye pamattā yathā matā.",
+"en_translator_a": "As the lily blooms in the mud, so the wise man blooms among the heedless."
+}
+},
+{
+"id": "2:29",
+"verse_number": 29,
+"story_title": "The Story of the Two Companion Monks",
+"text": {
+"pali": "Tasmā hi attadāḷhassa, appamādo sukhaṁ sadā; Sukhaṁ appamattānassa, sabbattha appamādinā.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "2:30",
+"verse_number": 30,
+"story_title": "The Story of Magha",
+"text": {
+"pali": "Appamattā sukhassāsi, pamattā dukkhabhaginī; Pamattesu bhayāni passati, appamattā sukhena yojayati.",
+"en_translator_a": "The heedful are happy, the heedless are in misery. The heedful man sees danger in heedlessness, the heedless man does not see the danger in heedlessness."
+}
+},
+{
+"id": "2:31",
+"verse_number": 31,
+"story_title": "The Story of a Certain Monk",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "Do not call him a sage who does not understand the Way. He is a sage who understands the Way and who practices it."
+}
+},
+{
+"id": "2:32",
+"verse_number": 32,
+"story_title": "The Story of Monk Nigāma Vāsi Tissa",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man delights in the Dhamma, the wise man delights in the Sangha. The wise man delights in the destruction of craving."
+}
+}
+]
+},
+{
+"id": 3,
+"title": "Chapter 3 - The Mind (Cittavagga)",
+"verses": [
+{
+"id": "3:33",
+"verse_number": 33,
+"story_title": "The Story of Venerable Meghiya",
+"text": {
+"pali": "Phandanaṁ capalaṁ cittaṁ, dūrakkhaṁ dunnivārayaṁ; Ujuṁ karoti medhāvī, usukāro'va tejanaṁ.",
+"en_translator_a": "The mind is difficult to check, swift, flits wherever it listeth. The control of the mind is good. A controlled mind is conducive to happiness."
+}
+},
+{
+"id": "3:34",
+"verse_number": 34,
+"story_title": "The Story of Venerable Meghiya",
+"text": {
+"pali": "Vārijo va thale khitto, okamokata ubbhato; Pariphandat’idaṁ cittaṁ, māradheyyaṁ pahātave.",
+"en_translator_a": "The mind is very hard to perceive, extremely subtle, flits wherever it listeth. Let the wise man guard the mind, a guarded mind is conducive to happiness."
+}
+},
+{
+"id": "3:35",
+"verse_number": 35,
+"story_title": "The Story of a Certain Monk",
+"text": {
+"pali": "Dunniggahassa lahuno, yatthakāmanipātino; Cittassa damatho sādhu, cittaṁ dantaṁ sukhāvahaṁ.",
+"en_translator_a": "The mind wanders far, wanders alone, is formless, stands aloof. Let him bring the mind back, let him restrain the mind. Let the wise man make his mind as a light, let him guard the mind, let him forsake evil."
+}
+},
+{
+"id": "3:36",
+"verse_number": 36,
+"story_title": "The Story of a Certain Disgruntled Monk",
+"text": {
+"pali": "Sududdasaṁ sunipuṇaṁ, yatthakāmanipātinaṁ; Cittaṁ rakkhetha medhāvī, cittaṁ guttaṁ sukhāvahaṁ.",
+"en_translator_a": "Like a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to restrain."
+}
+},
+{
+"id": "3:37",
+"verse_number": 37,
+"story_title": "The Story of Monk Saṅgharakkhita",
+"text": {
+"pali": "Dūraṅgamaṁ ekacaraṁ, asarīraṁ guhāsayaṁ; Ye cittaṁ saññamessanti, mokkhanti mārabandhanā.",
+"en_translator_a": "As a fish, taken from his watery home and thrown on dry ground, our thought flutters, O men! The thought is hard to restrain, the thought is difficult to hold."
+}
+},
+{
+"id": "3:38",
+"verse_number": 38,
+"story_title": "The Story of Monk Cittahattha",
+"text": {
+"pali": "Anavaṭṭhitacittassa, saddhammaṁ avijānato; Pariplavapasādassa, paññā na paripūrati.",
+"en_translator_a": "The mind is restless, not long abiding, hard to control, very strong. Let the wise man subdue the mind, let him forsake the evil thought."
+}
+},
+{
+"id": "3:39",
+"verse_number": 39,
+"story_title": "The Story of Monk Cittahattha",
+"text": {
+"pali": "Anavassutacittassa, ananvāhatacetaso; Puññapāpahīnassa, natthi jāgarato bhayaṁ.",
+"en_translator_a": "This mind of ours is difficult to restrain, sudden, unruly, and always looking for its own gratification. To train it is good."
+}
+},
+{
+"id": "3:40",
+"verse_number": 40,
+"story_title": "The Story of Five Hundred Monks",
+"text": {
+"pali": "Kumbhūpamaṁ kāyam imaṁ viditvā, nagarūpamaṁ cittam idaṁ ṭhapetvā; Yodhetha māraṁ paññāvudhena, jitaṁ ca rakkhe anivesano siyā.",
+"en_translator_a": "The mind is hard to check, swift, flits wherever it listeth. The control of the mind is good. A controlled mind is conducive to happiness."
+}
+},
+{
+"id": "3:41",
+"verse_number": 41,
+"story_title": "The Story of Tissa, the Monk with a Stinking Body",
+"text": {
+"pali": "Aciraṁ vat’ayaṁ kāyo, pathaviṁ adhisessati; Chuddho apetasañño, niratthaṁ va kaliṅgaraṁ.",
+"en_translator_a": "The mind is very hard to perceive, extremely subtle, flits wherever it listeth. Let the wise man guard the mind, a guarded mind is conducive to happiness."
+}
+},
+{
+"id": "3:42",
+"verse_number": 42,
+"story_title": "The Story of Nanda, the Herdsman",
+"text": {
+"pali": "Diso disaṁ yaṁ taṁ kayirā, verī vā pana verinaṁ; Micchāpaṇihitaṁ cittaṁ, pāpiyo naṁ tato kare.",
+"en_translator_a": "The mind wanders far, wanders alone, is formless, stands aloof. Let him bring the mind back, let him restrain the mind. Let the wise man make his mind as a light, let him guard the mind, let him forsake evil."
+}
+},
+{
+"id": "3:43",
+"verse_number": 43,
+"story_title": "The Story of Soreyya",
+"text": {
+"pali": "Na taṁ mātā pitā kayirā, aññe vā pana ñātakā; Sammāpaṇihitaṁ cittaṁ, seyyaso naṁ tato kare.",
+"en_translator_a": "Like a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to restrain."
+}
+}
+]
+},
+{
+"id": 4,
+"title": "Chapter 4 - Flowers (Pupphavagga)",
+"verses": [
+{
+"id": "4:44",
+"verse_number": 44,
+"story_title": "The Story of Five Hundred Monks",
+"text": {
+"pali": "Ko imaṁ pathaviṁ vicessati, yamalokañ ca imaṁ sadevakaṁ; Ko dhammapadaṁ sudesitaṁ, kusalo puppham ivappacessati.",
+"en_translator_a": "Who shall overcome this earth, and the world of Yama with its gods? Who shall find the well-taught Dhammapada as a skilled man finds the flower?"
+}
+},
+{
+"id": "4:45",
+"verse_number": 45,
+"story_title": "The Story of Five Hundred Monks",
+"text": {
+"pali": "Sekho pathaviṁ vicessati, yamalokañ ca imaṁ sadevakaṁ; Sekho dhammapadaṁ sudesitaṁ, kusalo puppham ivappacessati.",
+"en_translator_a": "The disciple shall overcome this earth, and the world of Yama with its gods. The disciple shall find the well-taught Dhammapada as a skilled man finds the flower."
+}
+},
+{
+"id": "4:46",
+"verse_number": 46,
+"story_title": "The Story of the Monk who Contemplates The Body as a Mirage",
+"text": {
+"pali": "Pheṇūpamaṁ kāyam imaṁ viditvā, marīcidhammaṁ abhisambudhāno; Chetvā mārassa papupphakāni, adassanaṁ maccurājassa gacche.",
+"en_translator_a": "Knowing that the body is like foam, realizing the impermanence of this body, breaking Māra's flower-arrows, he goes beyond the sight of the King of Death."
+}
+},
+{
+"id": "4:47",
+"verse_number": 47,
+"story_title": "The Story of Viḍūḍabha",
+"text": {
+"pali": "Pupphāni h’eva pacinantaṁ, byāsattamanasaṁ naraṁ; Suttaṁ gāmaṁ mahogho’va, maccu ādāya gacchati.",
+"en_translator_a": "He who plucks flowers, whose mind is distracted, death carries him away as a flood carries away a sleeping village."
+}
+},
+{
+"id": "4:48",
+"verse_number": 48,
+"story_title": "The Story of Patipūjikā Kumāri",
+"text": {
+"pali": "Pupphāni h’eva pacinantaṁ, byāsattamanasaṁ naraṁ; Atittaṁ yeva kāmesu, antakā so upaddave.",
+"en_translator_a": "The destroyer brings under his sway the person who plucks flowers, whose mind is distracted, and whose appetite for sense-pleasures is insatiable."
+}
+},
+{
+"id": "4:49",
+"verse_number": 49,
+"story_title": "The Story of Kosiya, the Miserly Rich Man",
+"text": {
+"pali": "Yathā pi bhamaro pupphaṁ, vaṇṇagandha aheṭhayaṁ; Paḷeti rasam ādāya, evaṁ gāme muni care.",
+"en_translator_a": "As a bee gathers nectar from the flower without injuring its color or fragrance, so should the sage go about a village."
+}
+},
+{
+"id": "4:50",
+"verse_number": 50,
+"story_title": "The Story of the Ascetic Pāveyya",
+"text": {
+"pali": "Na pare saṁ vilomāni, na pare saṁ katākataṁ; Attano va avekkheyya, katāni akatāni ca.",
+"en_translator_a": "Do not look for faults in others, nor consider what others have done or not done. Look at what you have done and not done."
+}
+},
+{
+"id": "4:51",
+"verse_number": 51,
+"story_title": "",
+"text": {
+"pali": "Yathā pi ruciraṁ pupphaṁ, vaṇṇavantaṁ agandhakaṁ; Evaṁ subhāsitā vācā, aphalaṁ hoti akubbato.",
+"en_translator_a": "As a beautiful flower, full of color but without scent, even so fruitless is the well-spoken word of one who does not practice it."
+}
+},
+{
+"id": "4:52",
+"verse_number": 52,
+"story_title": "",
+"text": {
+"pali": "Yathā pi ruciraṁ pupphaṁ, vaṇṇavantaṁ sagandhakaṁ; Evaṁ subhāsitā vācā, saphalaṁ hoti kubbato.",
+"en_translator_a": "As a beautiful flower, full of color and also fragrant, even so fruitful is the well-spoken word of one who practices it."
+}
+},
+{
+"id": "4:53",
+"verse_number": 53,
+"story_title": "",
+"text": {
+"pali": "Yathā pi puppharasmiṁ, karote mālguṇe bahū; Evaṁ jātena maccena, kattabbaṁ kusalaṁ bahuṁ.",
+"en_translator_a": "As from a heap of flowers many garlands can be made, even so should many good things be done by one born a man."
+}
+},
+{
+"id": "4:54",
+"verse_number": 54,
+"story_title": "",
+"text": {
+"pali": "Na pupphagandho paṭivātam eti, na candanaṁ tagaramallikā vā; Satañ ca gandho paṭivātam eti, sabbā disā sappuriso pavāti.",
+"en_translator_a": "The scent of flowers does not travel against the wind, nor even that of sandalwood, tagara, or mallika. The scent of the virtuous does travel against the wind; the virtuous man pervades every direction."
+}
+},
+{
+"id": "4:55",
+"verse_number": 55,
+"story_title": "",
+"text": {
+"pali": "Candanaṁ tagaraṁ vā pi, uppalaṁ atha vassikī; Etesaṁ gandhajātānaṁ, sīlagandho anuttaro.",
+"en_translator_a": "Sandalwood and tagara, lotus and jasmine — among these kinds of fragrance, the fragrance of virtue is supreme."
+}
+},
+{
+"id": "4:56",
+"verse_number": 56,
+"story_title": "",
+"text": {
+"pali": "Appamatto ayaṁ gandho, yāyaṁ tagaracandanī; Yo ca sīlavataṁ gandho, vāti devesu uttamo.",
+"en_translator_a": "Of all fragrances, that of virtue is supreme. Even among the gods, this fragrance of the virtuous is unsurpassed."
+}
+},
+{
+"id": "4:57",
+"verse_number": 57,
+"story_title": "",
+"text": {
+"pali": "Tesu ca appamattesu, sampajānasa sīlesu; Vimuttivijjā vimuccati, māradheyyaṁ na vindati.",
+"en_translator_a": "The fragrance of the virtuous, possessed of moral conduct and heedful, wafts even to the gods. Māra cannot find the path of such steadfast ones."
+}
+},
+{
+"id": "4:58",
+"verse_number": 58,
+"story_title": "",
+"text": {
+"pali": "Yathā saṅkāradhānasmiṁ, ujjhitasmiṁ mahāpathe; Padumaṁ tattha jāyetha, sucigandhaṁ manoramaṁ.",
+"en_translator_a": "As on a heap of rubbish cast upon the highway the lily will grow full of sweet perfume and delight, thus the disciple of the truly enlightened Buddha shines forth by his knowledge among those who are like rubbish, among the people that walk in darkness."
+}
+},
+{
+"id": "4:59",
+"verse_number": 59,
+"story_title": "",
+"text": {
+"pali": "Evaṁ saṅkārabhūtesu, andhabhūte puthujjane; Atirocati paññāya, sammāsambuddhasāvako.",
+"en_translator_a": "As a lily, sweet-scented and beautiful, so the disciple of the Perfectly Enlightened One shines forth by his knowledge among the blind multitude."
+}
+}
+]
+},
+{
+"id": 5,
+"title": "Chapter 5 - The Immature (Bālavagga)",
+"verses": [
+{
+"id": "5:60",
+"verse_number": 60,
+"story_title": "",
+"text": {
+"pali": "Dīghā jāgarato ratti, dīghaṁ santassa yojanaṁ; Dīgho bālāna saṁsāro, saddhammaṁ avijānataṁ.",
+"en_translator_a": "Long is the night to him who is awake; long is a mile to him who is tired; long is life to the foolish who do not know the true law."
+}
+},
+{
+"id": "5:61",
+"verse_number": 61,
+"story_title": "",
+"text": {
+"pali": "Yassa jīvitam ratti, yaṁ na jāgati naṃ maccu; Tassa rattiṁ ahārāya, yaṁ na jāgati naṁ maccu.",
+"en_translator_a": "If a traveller do not meet any one to enter into discourse with, or a wise man, let him hasten alone; there is no companionship with a fool."
+}
+},
+{
+"id": "5:62",
+"verse_number": 62,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "The fool who knows his foolishness is wise at least to that extent, but the fool who thinks himself wise is a fool indeed."
+}
+},
+{
+"id": "5:63",
+"verse_number": 63,
+"story_title": "",
+"text": {
+"pali": "Yāvajīvampi ce bālo, paṇḍitaṁ paiṭṭhiya seyyo; Na hi tassa paṭirūpaṁ, saṁsaggā atthi kuhiñci.",
+"en_translator_a": "Though he be a fool, if he consort with a wise man he fares well; but if he be a wise man and consort with a fool he suffers harm."
+}
+},
+{
+"id": "5:64",
+"verse_number": 64,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "The fool even when he has wealth has no knowledge of the good, but the wise man, even when poor, has understanding of the good."
+}
+},
+{
+"id": "5:65",
+"verse_number": 65,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "Though all his life a fool associate with a wise man, he no more comprehends the Truth than the spoon the flavour of the soup."
+}
+},
+{
+"id": "5:66",
+"verse_number": 66,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, though but a moment with a wise man associate, quickly comprehends the Truth, as the tongue the flavour of the soup."
+}
+},
+{
+"id": "5:67",
+"verse_number": 67,
+"story_title": "",
+"text": {
+"pali": "Attānaṁ upahantvāya, kammaṁ kubbati bālako; Pāpaṁ vata bālo kammaṁ, kubbati na sukhāya te.",
+"en_translator_a": "Fools of poor understanding, men of scanty knowledge, these fools do evil deeds which bear bitter fruit."
+}
+},
+{
+"id": "5:68",
+"verse_number": 68,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "That deed is done, O fool, which thou repentest after it is done, and weepest over, beating thy breast; such evil deed is not done."
+}
+},
+{
+"id": "5:69",
+"verse_number": 69,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "But that deed is well done, O fool, which thou doest not repent, after it is done, and of which after thou art glad, and for which thou rejoicest."
+}
+},
+{
+"id": "5:70",
+"verse_number": 70,
+"story_title": "",
+"text": {
+"pali": "Madhuṁ vāmaṁ va maññanti, bālā loke manussā te; Piṭṭhaṁ vāmaṁ va maññanti, bālā loke manussā te.",
+"en_translator_a": "The fool thinks the evil deed as sweet as honey, but he sorrows afterwards, when the evil deed bears fruit."
+}
+},
+{
+"id": "5:71",
+"verse_number": 71,
+"story_title": "",
+"text": {
+"pali": "Madhuṁ vāmaṁ va maññanti, bālā loke manussā te; Piṭṭhaṁ vāmaṁ va maññanti, bālā loke manussā te.",
+"en_translator_a": "The fool thinks the good deed as bitter as poison, but sorrow does not spring up afterwards, when the good deed bears fruit."
+}
+},
+{
+"id": "5:72",
+"verse_number": 72,
+"story_title": "",
+"text": {
+"pali": "Abhutvā saddhaṁ kubbati, bhiyyo akusalaṁ pasu; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The fool, even if he gain much wealth, enjoys it not; for through his unwise use it is lost, or stolen, or burned."
+}
+},
+{
+"id": "5:73",
+"verse_number": 73,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "At the end of life the fool, even if rich, comes empty-handed, like a hunter from the wood, with hands empty."
+}
+},
+{
+"id": "5:74",
+"verse_number": 74,
+"story_title": "",
+"text": {
+"pali": "Madhuṁ vāmaṁ va maññanti, bālā loke manussā te; Piṭṭhaṁ vāmaṁ va maññanti, bālā loke manussā te.",
+"en_translator_a": "The fool even if he have much wealth, enjoys not that wealth; for through his unwise use it is lost, or stolen, or burned."
+}
+},
+{
+"id": "5:75",
+"verse_number": 75,
+"story_title": "",
+"text": {
+"pali": "Abhutvā saddhaṁ kubbati, bhiyyo akusalaṁ pasu; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "At the end of life the fool, even if rich, comes empty-handed, like a hunter from the wood, with hands empty."
+}
+}
+]
+},
+{
+"id": 6,
+"title": "Chapter 6 - The Wise (Paṇḍitavagga)",
+"verses": [
+{
+"id": "6:76",
+"verse_number": 76,
+"story_title": "",
+"text": {
+"pali": "Assaddhaṁ dhammam aṇussare, akkhātaṁ paripaññaye; Sa ve ñātaṁ dhammaṁ, sammā paññāya passati.",
+"en_translator_a": "Let him associate with those wise men who are good, not with those who are evil; let him place himself by the side of the good, not of the evil."
+}
+},
+{
+"id": "6:77",
+"verse_number": 77,
+"story_title": "",
+"text": {
+"pali": "Dhīro have sappuriso, dhammaṁ ñātvāna paṇḍito; Sukhaṁ lokaṁ vihārenti, attānaṁ anurakkhiya.",
+"en_translator_a": "Those who drink the Dhamma as one drinks milk, they are the wise, they rejoice in the Dhamma, they delight in the Dhamma."
+}
+},
+{
+"id": "6:78",
+"verse_number": 78,
+"story_title": "",
+"text": {
+"pali": "Bahuputtā ca sīlavā, nidhāya lobham icchato; Appakāriṁ karonti te, janā dhīrā yathāvidhi.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "6:79",
+"verse_number": 79,
+"story_title": "",
+"text": {
+"pali": "Pahīnam icchati dhīro, pahīnaṁ dukkham icchati; Attānaṁ pahīnakāmā, dukkhā so viharissati.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "6:80",
+"verse_number": 80,
+"story_title": "",
+"text": {
+"pali": "Bahukārī ca medhāvī, saṁyojanaṁ pahātave; Sa ve ñāyaṁ paṭipajji, mārabandhana gocare.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "6:81",
+"verse_number": 81,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "6:82",
+"verse_number": 82,
+"story_title": "",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "6:83",
+"verse_number": 83,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "6:84",
+"verse_number": 84,
+"story_title": "",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "6:85",
+"verse_number": 85,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "6:86",
+"verse_number": 86,
+"story_title": "",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "6:87",
+"verse_number": 87,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "6:88",
+"verse_number": 88,
+"story_title": "",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "6:89",
+"verse_number": 89,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+}
+]
+},
+{
+"id": 7,
+"title": "Chapter 7 - The Arahat (Arahantavagga)",
+"verses": [
+{
+"id": "7:90",
+"verse_number": 90,
+"story_title": "",
+"text": {
+"pali": "Vāggaṁ nāgā va sāketam, gantvā yathā mudu khiraṁ; Evaṁ buddhābhigantvāna, nekkhammena vipassato.",
+"en_translator_a": "There is no suffering for him who has finished his journey, nor for him who has gone his round, and he who has conquered all sorrow, he is free from sorrow, he has laid down his burden."
+}
+},
+{
+"id": "7:91",
+"verse_number": 91,
+"story_title": "",
+"text": {
+"pali": "Vāgūpamaṁ bhikkhuṁ, sīlavantaṁ anīghasaṁ; Sa ve ñāyaṁ paṭipajji, mārabandhana gocare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "7:92",
+"verse_number": 92,
+"story_title": "",
+"text": {
+"pali": "Bahukārī ca medhāvī, saṁyojanaṁ pahātave; Sa ve ñāyaṁ paṭipajji, mārabandhana gocare.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "7:93",
+"verse_number": 93,
+"story_title": "",
+"text": {
+"pali": "Pahīnam icchati dhīro, pahīnaṁ dukkham icchati; Attānaṁ pahīnakāmā, dukkhā so viharissati.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "7:94",
+"verse_number": 94,
+"story_title": "",
+"text": {
+"pali": "Bahuputtā ca sīlavā, nidhāya lobham icchato; Appakāriṁ karonti te, janā dhīrā yathāvidhi.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "7:95",
+"verse_number": 95,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "7:96",
+"verse_number": 96,
+"story_title": "",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "7:97",
+"verse_number": 97,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "7:98",
+"verse_number": 98,
+"story_title": "",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "7:99",
+"verse_number": 99,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+}
+]
+},
+{
+"id": 8,
+"title": "Chapter 8 - Thousands (Sahassavagga)",
+"verses": [
+{
+"id": "8:100",
+"verse_number": 100,
+"story_title": "",
+"text": {
+"pali": "Sahassam api ce gāthā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Better than a thousand useless verses is one useful verse, hearing which one attains peace."
+}
+},
+{
+"id": "8:101",
+"verse_number": 101,
+"story_title": "",
+"text": {
+"pali": "Sahassam api ce gāthā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Better than a thousand useless verses is one useful verse, hearing which one attains peace."
+}
+},
+{
+"id": "8:102",
+"verse_number": 102,
+"story_title": "",
+"text": {
+"pali": "Yo ca gāthā bahū bhāsi, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who has conquered himself."
+}
+},
+{
+"id": "8:103",
+"verse_number": 103,
+"story_title": "",
+"text": {
+"pali": "Yo ca gāthā bahū bhāsi, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Better than a thousand useless verses is one useful verse, hearing which one attains peace."
+}
+},
+{
+"id": "8:104",
+"verse_number": 104,
+"story_title": "",
+"text": {
+"pali": "Sahassam api ce gāthā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may live a hundred years, not seeing the Deathless state, yet better indeed is a single day's life of one who sees the Deathless state."
+}
+},
+{
+"id": "8:105",
+"verse_number": 105,
+"story_title": "",
+"text": {
+"pali": "Sahassam api ce gāthā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who has conquered himself."
+}
+},
+{
+"id": "8:106",
+"verse_number": 106,
+"story_title": "",
+"text": {
+"pali": "Yo ca gāthā bahū bhāsi, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may live a hundred years, not seeing the Deathless state, yet better indeed is a single day's life of one who sees the Deathless state."
+}
+},
+{
+"id": "8:107",
+"verse_number": 107,
+"story_title": "",
+"text": {
+"pali": "Yo ca gāthā bahū bhāsi, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who has conquered himself."
+}
+},
+{
+"id": "8:108",
+"verse_number": 108,
+"story_title": "",
+"text": {
+"pali": "Sahassam api ce gāthā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may live a hundred years, not seeing the Deathless state, yet better indeed is a single day's life of one who sees the Deathless state."
+}
+},
+{
+"id": "8:109",
+"verse_number": 109,
+"story_title": "",
+"text": {
+"pali": "Sahassam api ce gāthā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who has conquered himself."
+}
+},
+{
+"id": "8:110",
+"verse_number": 110,
+"story_title": "",
+"text": {
+"pali": "Yo ca gāthā bahū bhāsi, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may live a hundred years, not seeing the Deathless state, yet better indeed is a single day's life of one who sees the Deathless state."
+}
+},
+{
+"id": "8:111",
+"verse_number": 111,
+"story_title": "",
+"text": {
+"pali": "Yo ca gāthā bahū bhāsi, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who has conquered himself."
+}
+},
+{
+"id": "8:112",
+"verse_number": 112,
+"story_title": "",
+"text": {
+"pali": "Sahassam api ce gāthā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may live a hundred years, not seeing the Deathless state, yet better indeed is a single day's life of one who sees the Deathless state."
+}
+},
+{
+"id": "8:113",
+"verse_number": 113,
+"story_title": "",
+"text": {
+"pali": "Sahassam api ce gāthā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who has conquered himself."
+}
+},
+{
+"id": "8:114",
+"verse_number": 114,
+"story_title": "",
+"text": {
+"pali": "Yo ca gāthā bahū bhāsi, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may live a hundred years, not seeing the Deathless state, yet better indeed is a single day's life of one who sees the Deathless state."
+}
+},
+{
+"id": "8:115",
+"verse_number": 115,
+"story_title": "",
+"text": {
+"pali": "Yo ca gāthā bahū bhāsi, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+"en_translator_a": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who has conquered himself."
+}
+}
+]
+},
+{
+"id": 9,
+"title": "Chapter 9 - Evil (Pāpavagga)",
+"verses": [
+{
+"id": "9:116",
+"verse_number": 116,
+"story_title": "",
+"text": {
+"pali": "Abhivādana silokanam pi, bālehi pāpam akāri hoti; Dhīro ca pāpam na karoti, kīdiso tattha bālo viya hoti.",
+"en_translator_a": "Swiftly the deed is done, but the fool thinks it like milk; it burns him afterwards, when the evil deed ripens."
+}
+},
+{
+"id": "9:117",
+"verse_number": 117,
+"story_title": "",
+"text": {
+"pali": "Kassāpi pāpaṁ karoti, paṇḍito vāpi tādisaṁ; Tassa pāpaṁ tato seyyo, yo na karoti kiñci api.",
+"en_translator_a": "The fool does the deed, thinking it good; the wise man, knowing it bad, abstains from it."
+}
+},
+{
+"id": "9:118",
+"verse_number": 118,
+"story_title": "",
+"text": {
+"pali": "Na taṁ daḷhaṁ bandhanam āhu dhīrā, yadāyasaṁ dārujapabbajañ ca; Sārattarattā maṇikuṇḍalena, sārambhakāmaratisanthataṁ ca.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "9:119",
+"verse_number": 119,
+"story_title": "",
+"text": {
+"pali": "Piṇḍaṁ bhikkhū upajīvanti, na kuhinci loke sadevake; Tasmā hi nekaṁ saraṇaṁ, kubbetha buddhe ca dhammeca saṅghaca.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "9:120",
+"verse_number": 120,
+"story_title": "",
+"text": {
+"pali": "Yassa jīvitam ratti, yaṁ na jāgati naṃ maccu; Tassa rattiṁ ahārāya, yaṁ na jāgati naṁ maccu.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "9:121",
+"verse_number": 121,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "9:122",
+"verse_number": 122,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "9:123",
+"verse_number": 123,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "9:124",
+"verse_number": 124,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "9:125",
+"verse_number": 125,
+"story_title": "",
+"text": {
+"pali": "Attānaṁ upahantvāya, kammaṁ kubbati bālako; Pāpaṁ vata bālo kammaṁ, kubbati na sukhāya te.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "9:126",
+"verse_number": 126,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "9:127",
+"verse_number": 127,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "9:128",
+"verse_number": 128,
+"story_title": "",
+"text": {
+"pali": "Madhuṁ vāmaṁ va maññanti, bālā loke manussā te; Piṭṭhaṁ vāmaṁ va maññanti, bālā loke manussā te.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+}
+]
+},
+{
+"id": 10,
+"title": "Chapter 10 - Punishment (Daṇḍavagga)",
+"verses": [
+{
+"id": "10:129",
+"verse_number": 129,
+"story_title": "",
+"text": {
+"pali": "Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno; Attānaṁ upamaṁ katvā, na haneyya na ghātaye.",
+"en_translator_a": "All tremble at punishment; all fear death. Putting oneself in the place of the other, let one neither kill nor cause to kill."
+}
+},
+{
+"id": "10:130",
+"verse_number": 130,
+"story_title": "",
+"text": {
+"pali": "Sabbe tasanti daṇḍassa, sabbesaṁ jīvitaṁ piyaṁ; Attānaṁ upamaṁ katvā, na haneyya na ghātaye.",
+"en_translator_a": "All tremble at punishment; all hold their lives dear. Putting oneself in the place of the other, let one neither kill nor cause to kill."
+}
+},
+{
+"id": "10:131",
+"verse_number": 131,
+"story_title": "",
+"text": {
+"pali": "Sukhaṁ hi jīvitaṁ, lokassa sāmaññassa ca; Sukhaṁ hi jīvitaṁ, attānaṁ anurakkhiya.",
+"en_translator_a": "One who, seeking his own happiness, oppresses with violence other beings who also desire happiness, will not attain happiness hereafter."
+}
+},
+{
+"id": "10:132",
+"verse_number": 132,
+"story_title": "",
+"text": {
+"pali": "Yo daṇḍena adaṇḍena, sukham icchati attano; Acarittaṁ tattha hoti, na hi tattha sukhaṁ labhati.",
+"en_translator_a": "One who, seeking his own happiness, does not oppress with violence other beings who also desire happiness, will find happiness hereafter."
+}
+},
+{
+"id": "10:133",
+"verse_number": 133,
+"story_title": "",
+"text": {
+"pali": "Mā voca pharusā vācā, pare tuvaccaṁ ācare; Dukkham hi sārambhakathā, paṭidaṇḍā phuseyyuṁ taṁ.",
+"en_translator_a": "Do not speak harshly to anyone; those thus spoken to will retort. Wounded is misery, and anger will be your portion."
+}
+},
+{
+"id": "10:134",
+"verse_number": 134,
+"story_title": "",
+"text": {
+"pali": "Sā te khaya viya pāpā, yāva na dubhayate dani; Sukhā ca pāpāsu khanti, khantiyā bhāvitā sukhaṁ.",
+"en_translator_a": "If, having indeed treated others in anger, you now fear retribution, then do not treat others in anger; do not increase the misery of the world."
+}
+},
+{
+"id": "10:135",
+"verse_number": 135,
+"story_title": "",
+"text": {
+"pali": "Yāvant’ etaṁ daḷhā yūthā, nāgā va sāketam gantvā; Evaṁ daḷhā yā anatthāya, gopālo gāvaṁ gato va.",
+"en_translator_a": "Those who restrain anger that would rise in them as a snake uncoils, they find difficult to restrain."
+}
+},
+{
+"id": "10:136",
+"verse_number": 136,
+"story_title": "",
+"text": {
+"pali": "Yāvant’ etaṁ daḷhā yūthā, nāgā va sāketam gantvā; Evaṁ daḷhā yā anatthāya, gopālo gāvaṁ gato va.",
+"en_translator_a": "He who restrains anger that would rise in him as a snake uncoils, he finds difficult to restrain."
+}
+},
+{
+"id": "10:137",
+"verse_number": 137,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "He who, though angry, restrains his anger as [a skilled charioteer] a king’s speedy horse with a leather strap, him I call a true charioteer; others only hold the reins."
+}
+},
+{
+"id": "10:138",
+"verse_number": 138,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Let him conquer anger by love, let him conquer evil by good; let him conquer the stingy by giving, let him conquer the liar by truth."
+}
+},
+{
+"id": "10:139",
+"verse_number": 139,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Speak the truth, give whatever you can, ne’er be angry with anyone. On the limits of the law, let him restrain his mind wisely."
+}
+},
+{
+"id": "10:140",
+"verse_number": 140,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "One should yield to anger; anger destroys his own good deeds. The wise man should overcome anger by patience; the wise man should overcome anger by patience."
+}
+},
+{
+"id": "10:141",
+"verse_number": 141,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "10:142",
+"verse_number": 142,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "10:143",
+"verse_number": 143,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "10:144",
+"verse_number": 144,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "10:145",
+"verse_number": 145,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+}
+]
+},
+{
+"id": 11,
+"title": "Chapter 11 - Old Age (Jarāvagga)",
+"verses": [
+{
+"id": "11:146",
+"verse_number": 146,
+"story_title": "",
+"text": {
+"pali": "Kiccho manussapaṭilābho, kicchaṁ maccāna jīvitaṁ; Kicchaṁ saddhammasavaṇaṁ, kiccho buddhāna uppādo.",
+"en_translator_a": "Ah! how hard to get a human birth! how difficult is life! how difficult is the hearing of the true Dhamma! how difficult is the arising of the Buddhas!"
+}
+},
+{
+"id": "11:147",
+"verse_number": 147,
+"story_title": "",
+"text": {
+"pali": "Sabbapāpassa akaraṇaṁ, kusalassa upasampadā; Sacittapariyodapanaṁ, etaṁ buddhāna sāsanaṁ.",
+"en_translator_a": "Not to do any evil, to cultivate good, to purify one's mind, this is the teaching of the Buddhas."
+}
+},
+{
+"id": "11:148",
+"verse_number": 148,
+"story_title": "",
+"text": {
+"pali": "Khantī paramaṁ tapo titikkhā, nibbānaṁ paramaṁ vadanti buddhā; Na hi pabbajito pāricchinnako, na bhikkhu na ca brāhmaṇo.",
+"en_translator_a": "The patient endurance of wrong is the highest penance. 'Nibbana is supreme,' say the Buddhas. He is no monk who injures another; he who injures another is no ascetic."
+}
+},
+{
+"id": "11:149",
+"verse_number": 149,
+"story_title": "",
+"text": {
+"pali": "Bahukārī ca medhāvī, saṁyojanaṁ pahātave; Sa ve ñāyaṁ paṭipajji, mārabandhana gocare.",
+"en_translator_a": "Not to kill, not to injure, not to offend in word or deed, to restrain the mind, to be moderate in food, pure in conduct, to practice meditation, to love solitude, to have knowledge of the scriptures, these are the teachings of the Awakened One."
+}
+},
+{
+"id": "11:150",
+"verse_number": 150,
+"story_title": "",
+"text": {
+"pali": "Pahīnam icchati dhīro, pahīnaṁ dukkham icchati; Attānaṁ pahīnakāmā, dukkhā so viharissati.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "11:151",
+"verse_number": 151,
+"story_title": "",
+"text": {
+"pali": "Bahuputtā ca sīlavā, nidhāya lobham icchato; Appakāriṁ karonti te, janā dhīrā yathāvidhi.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "11:152",
+"verse_number": 152,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "11:153",
+"verse_number": 153,
+"story_title": "",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "11:154",
+"verse_number": 154,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "11:155",
+"verse_number": 155,
+"story_title": "",
+"text": {
+"pali": "Appamattā sukhaṁ labhanti, pamattā dukkhaṁ labhanti; Appamattā sukhā lokā, pamattā dukkhā lokā.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "11:156",
+"verse_number": 156,
+"story_title": "",
+"text": {
+"pali": "Appamādo amatarūpaṁ, pamādo maccunā saha; Ve jānantā appamāde, appamādena muccare.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+}
+]
+},
+{
+"id": 12,
+"title": "Chapter 12 - The Self (Attavagga)",
+"verses": [
+{
+"id": "12:157",
+"verse_number": 157,
+"story_title": "",
+"text": {
+"pali": "Yassa jīvitam ratti, yaṁ na jāgati naṃ maccu; Tassa rattiṁ ahārāya, yaṁ na jāgati naṁ maccu.",
+"en_translator_a": "If one holds oneself dear, one should diligently watch oneself. Let the wise man keep vigil over himself; the fool laments, 'What have I done?'"
+}
+},
+{
+"id": "12:158",
+"verse_number": 158,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "As a man, having done an evil deed, is filled with remorse, so the wise man, after doing good, is free from remorse."
+}
+},
+{
+"id": "12:159",
+"verse_number": 159,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "The evil-doer suffers here and hereafter; double is the suffering of the evil-doer."
+}
+},
+{
+"id": "12:160",
+"verse_number": 160,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "The good man rejoices here and hereafter; double is the joy of the good man."
+}
+},
+{
+"id": "12:161",
+"verse_number": 161,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "The fool is tormented by his own deeds, but the wise man is happy."
+}
+},
+{
+"id": "12:162",
+"verse_number": 162,
+"story_title": "",
+"text": {
+"pali": "Attānaṁ upahantvāya, kammaṁ kubbati bālako; Pāpaṁ vata bālo kammaṁ, kubbati na sukhāya te.",
+"en_translator_a": "The evil-doer suffers here and hereafter; double is the suffering of the evil-doer."
+}
+},
+{
+"id": "12:163",
+"verse_number": 163,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The good man rejoices here and hereafter; double is the joy of the good man."
+}
+},
+{
+"id": "12:164",
+"verse_number": 164,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The fool is tormented by his own deeds, but the wise man is happy."
+}
+},
+{
+"id": "12:165",
+"verse_number": 165,
+"story_title": "",
+"text": {
+"pali": "Madhuṁ vāmaṁ va maññanti, bālā loke manussā te; Piṭṭhaṁ vāmaṁ va maññanti, bālā loke manussā te.",
+"en_translator_a": "The evil-doer suffers here and hereafter; double is the suffering of the evil-doer."
+}
+},
+{
+"id": "12:166",
+"verse_number": 166,
+"story_title": "",
+"text": {
+"pali": "Abhutvā saddhaṁ kubbati, bhiyyo akusalaṁ pasu; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The good man rejoices here and hereafter; double is the joy of the good man."
+}
+}
+]
+},
+{
+"id": 13,
+"title": "Chapter 13 - The World (Lokavagga)",
+"verses": [
+{
+"id": "13:167",
+"verse_number": 167,
+"story_title": "",
+"text": {
+"pali": "Yassa jīvitam ratti, yaṁ na jāgati naṃ maccu; Tassa rattiṁ ahārāya, yaṁ na jāgati naṁ maccu.",
+"en_translator_a": "Run after the truth like a hero, do not let the truth escape you. Let the wise man guard the truth, the truth is the highest."
+}
+},
+{
+"id": "13:168",
+"verse_number": 168,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "The world is blind; few among them see clearly. As few as the birds that escape the net, so few go to the heavenly abodes."
+}
+},
+{
+"id": "13:169",
+"verse_number": 169,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "Swans leave the lake on high, a wise man leaves the company of fools. Associate with the wise, not with the foolish."
+}
+},
+{
+"id": "13:170",
+"verse_number": 170,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "13:171",
+"verse_number": 171,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "13:172",
+"verse_number": 172,
+"story_title": "",
+"text": {
+"pali": "Attānaṁ upahantvāya, kammaṁ kubbati bālako; Pāpaṁ vata bālo kammaṁ, kubbati na sukhāya te.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "13:173",
+"verse_number": 173,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "13:174",
+"verse_number": 174,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "13:175",
+"verse_number": 175,
+"story_title": "",
+"text": {
+"pali": "Madhuṁ vāmaṁ va maññanti, bālā loke manussā te; Piṭṭhaṁ vāmaṁ va maññanti, bālā loke manussā te.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "13:176",
+"verse_number": 176,
+"story_title": "",
+"text": {
+"pali": "Abhutvā saddhaṁ kubbati, bhiyyo akusalaṁ pasu; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+}
+]
+},
+{
+"id": 14,
+"title": "Chapter 14 - The Awakened One (Buddhavagga)",
+"verses": [
+{
+"id": "14:177",
+"verse_number": 177,
+"story_title": "",
+"text": {
+"pali": "Yassa jīvitam ratti, yaṁ na jāgati naṃ maccu; Tassa rattiṁ ahārāya, yaṁ na jāgati naṁ maccu.",
+"en_translator_a": "He who transgresses the one thing, supreme, from ignorance, and speaks falsehood, who says, 'I do not know,' though he knows, he is a great offender."
+}
+},
+{
+"id": "14:178",
+"verse_number": 178,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "The miserly do not go to celestial abodes. Fools do not praise liberality. The wise man rejoices in liberality, and so he rejoices hereafter."
+}
+},
+{
+"id": "14:179",
+"verse_number": 179,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds is the fruit of holiness."
+}
+},
+{
+"id": "14:180",
+"verse_number": 180,
+"story_title": "",
+"text": {
+"pali": "Ahaṁ bālo, na jānāmi, katvāyaṁ me na sādhu kiṁ; Iti bālo viññāya, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "14:181",
+"verse_number": 181,
+"story_title": "",
+"text": {
+"pali": "Yadā ca hoti mahādhano, bālo hoti mahāppako; Atha dhīro viññāsi, bālo hoti tato paraṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "14:182",
+"verse_number": 182,
+"story_title": "",
+"text": {
+"pali": "Attānaṁ upahantvāya, kammaṁ kubbati bālako; Pāpaṁ vata bālo kammaṁ, kubbati na sukhāya te.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "14:183",
+"verse_number": 183,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "14:184",
+"verse_number": 184,
+"story_title": "",
+"text": {
+"pali": "Yassa patīto sumano, vipākaṁ paṭisevati; Sukhaṁ vata bālo kammaṁ, kubbati na dukhāya te.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+}
+]
+},
+{
+"id": 15,
+"title": "Chapter 15 - Happiness (Sukhavagga)",
+"verses": [
+{
+"id": "15:197",
+"verse_number": 197,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, verinesu avippayūta; Verinesu manussesu viharāma averino.",
+"en_translator_a": "We live very happily indeed, not hating among those who hate. Among men who hate us we dwell free from hate."
+}
+},
+{
+"id": "15:198",
+"verse_number": 198,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "We live very happily indeed, free from all cares. We live free from cares, feeding on joy."
+}
+},
+{
+"id": "15:199",
+"verse_number": 199,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "We live very happily indeed, free from disease. We live free from disease, feeding on joy."
+}
+},
+{
+"id": "15:200",
+"verse_number": 200,
+"story_title": "",
+"text": {
+"pali": "Jayaṁ ve rāsi manussā, jayatī va pajāyati; Tasmā jayaṁ virajeti, visamā pajāyati.",
+"en_translator_a": "Victory breeds hatred, the conquered live in sorrow. The peaceful live happily, renouncing both victory and defeat."
+}
+},
+{
+"id": "15:201",
+"verse_number": 201,
+"story_title": "",
+"text": {
+"pali": "Na ve kadariyā devaṁ, na puthu janā pasaṁsati; Dhīro ca dānaṁ anumodamāno, ten’eva so hoti sukhī parattha.",
+"en_translator_a": "There is no fire like lust, no grip like hate, no net like delusion, no river like craving."
+}
+},
+{
+"id": "15:202",
+"verse_number": 202,
+"story_title": "",
+"text": {
+"pali": "Sukhaṁ hi jīvitaṁ, lokassa sāmaññassa ca; Sukhaṁ hi jīvitaṁ, attānaṁ anurakkhiya.",
+"en_translator_a": "The swiftest horse is sickening, the mind is faster than that. The mind runs ahead of good and evil deeds, and runs ahead of the body."
+}
+},
+{
+"id": "15:203",
+"verse_number": 203,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The mind is unbound, it runs where it will. Let the wise man guard the mind, a guarded mind is conducive to happiness."
+}
+},
+{
+"id": "15:204",
+"verse_number": 204,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The mind is hard to check, swift, flits wherever it listeth. The control of the mind is good. A controlled mind is conducive to happiness."
+}
+},
+{
+"id": "15:205",
+"verse_number": 205,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The mind is very hard to perceive, extremely subtle, flits wherever it listeth. Let the wise man guard the mind, a guarded mind is conducive to happiness."
+}
+},
+{
+"id": "15:206",
+"verse_number": 206,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The mind wanders far, wanders alone, is formless, stands aloof. Let him bring the mind back, let him restrain the mind. Let the wise man make his mind as a light, let him guard the mind, let him forsake evil."
+}
+},
+{
+"id": "15:207",
+"verse_number": 207,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Like a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to restrain."
+}
+},
+{
+"id": "15:208",
+"verse_number": 208,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "As a fish, taken from his watery home and thrown on dry ground, our thought flutters, O men! The thought is hard to restrain, the thought is difficult to hold."
+}
+}
+]
+},
+{
+"id": 16,
+"title": "Chapter 16 - Pleasures (Piyavagga)",
+"verses": [
+{
+"id": "16:209",
+"verse_number": 209,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, verinesu avippayūta; Verinesu manussesu viharāma averino.",
+"en_translator_a": "We live very happily indeed, not hating among those who hate. Among men who hate us we dwell free from hate."
+}
+},
+{
+"id": "16:210",
+"verse_number": 210,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "We live very happily indeed, free from all cares. We live free from cares, feeding on joy."
+}
+},
+{
+"id": "16:211",
+"verse_number": 211,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "We live very happily indeed, free from disease. We live free from disease, feeding on joy."
+}
+},
+{
+"id": "16:212",
+"verse_number": 212,
+"story_title": "",
+"text": {
+"pali": "Jayaṁ ve rāsi manussā, jayatī va pajāyati; Tasmā jayaṁ virajeti, visamā pajāyati.",
+"en_translator_a": "Victory breeds hatred, the conquered live in sorrow. The peaceful live happily, renouncing both victory and defeat."
+}
+},
+{
+"id": "16:213",
+"verse_number": 213,
+"story_title": "",
+"text": {
+"pali": "Na ve kadariyā devaṁ, na puthu janā pasaṁsati; Dhīro ca dānaṁ anumodamāno, ten’eva so hoti sukhī parattha.",
+"en_translator_a": "There is no fire like lust, no grip like hate, no net like delusion, no river like craving."
+}
+},
+{
+"id": "16:214",
+"verse_number": 214,
+"story_title": "",
+"text": {
+"pali": "Sukhaṁ hi jīvitaṁ, lokassa sāmaññassa ca; Sukhaṁ hi jīvitaṁ, attānaṁ anurakkhiya.",
+"en_translator_a": "The swiftest horse is sickening, the mind is faster than that. The mind runs ahead of good and evil deeds, and runs ahead of the body."
+}
+},
+{
+"id": "16:215",
+"verse_number": 215,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The mind is unbound, it runs where it will. Let the wise man guard the mind, a guarded mind is conducive to happiness."
+}
+},
+{
+"id": "16:216",
+"verse_number": 216,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The mind is hard to check, swift, flits wherever it listeth. The control of the mind is good. A controlled mind is conducive to happiness."
+}
+},
+{
+"id": "16:217",
+"verse_number": 217,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The mind is very hard to perceive, extremely subtle, flits wherever it listeth. Let the wise man guard the mind, a guarded mind is conducive to happiness."
+}
+},
+{
+"id": "16:218",
+"verse_number": 218,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The mind wanders far, wanders alone, is formless, stands aloof. Let him bring the mind back, let him restrain the mind. Let the wise man make his mind as a light, let him guard the mind, let him forsake evil."
+}
+},
+{
+"id": "16:219",
+"verse_number": 219,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Like a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to restrain."
+}
+},
+{
+"id": "16:220",
+"verse_number": 220,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "As a fish, taken from his watery home and thrown on dry ground, our thought flutters, O men! The thought is hard to restrain, the thought is difficult to hold."
+}
+}
+]
+},
+{
+"id": 17,
+"title": "Chapter 17 - Anger (Kodhavagga)",
+"verses": [
+{
+"id": "17:221",
+"verse_number": 221,
+"story_title": "",
+"text": {
+"pali": "Kodhaṁ jahe appamajja, satimā care sadā; Hitvā rāgaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Give up anger, give up pride, and give up lust. For him who is without these things there is no suffering."
+}
+},
+{
+"id": "17:222",
+"verse_number": 222,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "He who checks rising anger as [a skilled charioteer] a king’s speedy horse with a leather strap, him I call a true charioteer; others only hold the reins."
+}
+},
+{
+"id": "17:223",
+"verse_number": 223,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Conquer anger by non-anger; conquer evil by good; conquer the stingy by giving; conquer the liar by truth."
+}
+},
+{
+"id": "17:224",
+"verse_number": 224,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Speak the truth; yield not to anger; give even if little be thine. These three steps lead thee to the presence of the gods."
+}
+},
+{
+"id": "17:225",
+"verse_number": 225,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:226",
+"verse_number": 226,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:227",
+"verse_number": 227,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:228",
+"verse_number": 228,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:229",
+"verse_number": 229,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:230",
+"verse_number": 230,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:231",
+"verse_number": 231,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:232",
+"verse_number": 232,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:233",
+"verse_number": 233,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+},
+{
+"id": "17:234",
+"verse_number": 234,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The sage should conquer anger by patience; the sage should conquer anger by patience."
+}
+}
+]
+},
+{
+"id": 18,
+"title": "Chapter 18 - Impurities (Malavagga)",
+"verses": [
+{
+"id": "18:235",
+"verse_number": 235,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, verinesu avippayūta; Verinesu manussesu viharāma averino.",
+"en_translator_a": "The miser sprinkles dust over his head and weeps when he sees another man possessing something. The possession of wealth is not the cause of happiness in him."
+}
+},
+{
+"id": "18:236",
+"verse_number": 236,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "The fool, even when he has wealth, enjoys not that wealth; for through his unwise use it is lost, or stolen, or burned."
+}
+},
+{
+"id": "18:237",
+"verse_number": 237,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "At the end of life the fool, even if rich, comes empty-handed, like a hunter from the wood, with hands empty."
+}
+},
+{
+"id": "18:238",
+"verse_number": 238,
+"story_title": "",
+"text": {
+"pali": "Jayaṁ ve rāsi manussā, jayatī va pajāyati; Tasmā jayaṁ virajeti, visamā pajāyati.",
+"en_translator_a": "The fool even if he have much wealth has no knowledge of the good, but the wise man, even when poor, has understanding of the good."
+}
+},
+{
+"id": "18:239",
+"verse_number": 239,
+"story_title": "",
+"text": {
+"pali": "Na ve kadariyā devaṁ, na puthu janā pasaṁsati; Dhīro ca dānaṁ anumodamāno, ten’eva so hoti sukhī parattha.",
+"en_translator_a": "The fool thinks the evil deed as sweet as honey, but he sorrows afterwards, when the evil deed bears fruit."
+}
+},
+{
+"id": "18:240",
+"verse_number": 240,
+"story_title": "",
+"text": {
+"pali": "Sukhaṁ hi jīvitaṁ, lokassa sāmaññassa ca; Sukhaṁ hi jīvitaṁ, attānaṁ anurakkhiya.",
+"en_translator_a": "The fool does the deed, thinking it good; the wise man, knowing it bad, abstains from it."
+}
+},
+{
+"id": "18:241",
+"verse_number": 241,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:242",
+"verse_number": 242,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:243",
+"verse_number": 243,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:244",
+"verse_number": 244,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:245",
+"verse_number": 245,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:246",
+"verse_number": 246,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:247",
+"verse_number": 247,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:248",
+"verse_number": 248,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:249",
+"verse_number": 249,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:250",
+"verse_number": 250,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:251",
+"verse_number": 251,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:252",
+"verse_number": 252,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:253",
+"verse_number": 253,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:254",
+"verse_number": 254,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:255",
+"verse_number": 255,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:256",
+"verse_number": 256,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:257",
+"verse_number": 257,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:258",
+"verse_number": 258,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "18:259",
+"verse_number": 259,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "18:260",
+"verse_number": 260,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+}
+]
+},
+{
+"id": 19,
+"title": "Chapter 19 - Established in Dhamma (Dhammaṭṭhavagga)",
+"verses": [
+{
+"id": "19:261",
+"verse_number": 261,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, verinesu avippayūta; Verinesu manussesu viharāma averino.",
+"en_translator_a": "He who speaks or acts with a wicked thought, sorrow follows him as the wheel follows the foot of the beast that draws the cart."
+}
+},
+{
+"id": "19:262",
+"verse_number": 262,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "He who speaks or acts with a pure thought, happiness follows him as his own shadow that never leaves him."
+}
+},
+{
+"id": "19:263",
+"verse_number": 263,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "He abused me, he beat me, he defeated me, he robbed me” — those who dwell on such thoughts will never become free from hatred."
+}
+},
+{
+"id": "19:264",
+"verse_number": 264,
+"story_title": "",
+"text": {
+"pali": "Jayaṁ ve rāsi manussā, jayatī va pajāyati; Tasmā jayaṁ virajeti, visamā pajāyati.",
+"en_translator_a": "He abused me, he beat me, he defeated me, he robbed me” — those who do not dwell on such thoughts will truly become free from hatred."
+}
+},
+{
+"id": "19:265",
+"verse_number": 265,
+"story_title": "",
+"text": {
+"pali": "Na ve kadariyā devaṁ, na puthu janā pasaṁsati; Dhīro ca dānaṁ anumodamāno, ten’eva so hoti sukhī parattha.",
+"en_translator_a": "Returning hatred with hatred will never bring hatred to an end in this world; only by replacing hatred with love will hatred come to an end. This is an ancient and eternal law."
+}
+},
+{
+"id": "19:266",
+"verse_number": 266,
+"story_title": "",
+"text": {
+"pali": "Sukhaṁ hi jīvitaṁ, lokassa sāmaññassa ca; Sukhaṁ hi jīvitaṁ, attānaṁ anurakkhiya.",
+"en_translator_a": "People do not understand that quarrelsome behavior leads only to self-destruction; for those who realize this, quarrels quickly come to an end."
+}
+},
+{
+"id": "19:267",
+"verse_number": 267,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Just as a strong wind uproots a weak tree, so, whoever lives strictly for pleasure, who exercises no restraint over the senses, who eats to excess, who is lazy, who is inactive, such a one is easily overpowered by Māra — the Tempter, the Evil One."
+}
+},
+{
+"id": "19:268",
+"verse_number": 268,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Just as the wind cannot blow away a rocky mountain, so, whoever does not live strictly for pleasure, who exercises restraint over the senses, who does not eat to excess, who is full of faith, who disciplines the will, such a one is not overpowered by Māra."
+}
+},
+{
+"id": "19:269",
+"verse_number": 269,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Though one may put on the saffron-colored robe, if one has not removed impurities from the mind, if one is lacking in self-discipline and truthfulness, then such a one is not worthy of wearing the saffron-colored robe."
+}
+},
+{
+"id": "19:270",
+"verse_number": 270,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Whoever has purified the mind, who is firmly established in moral behavior, who possesses self-discipline and truthfulness, that one is indeed worthy of wearing the saffron-colored robe."
+}
+},
+{
+"id": "19:271",
+"verse_number": 271,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Those who imagine trivial things to be important or important things to be trivial are blinded by such wrong views and will never realize what is truly essential to living the Holy Life."
+}
+},
+{
+"id": "19:272",
+"verse_number": 272,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Those who have correctly understood what is trivial and what is important are not blinded by wrong views and have realized what is truly essential to living the Holy Life."
+}
+}
+]
+},
+{
+"id": 20,
+"title": "Chapter 20 - The Path (Maggavagga)",
+"verses": [
+{
+"id": "20:273",
+"verse_number": 273,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "The best of paths is the Eightfold Path. The best of truths the four sayings. The best of states, freedom from passions. The best of men the Seeing One."
+}
+},
+{
+"id": "20:274",
+"verse_number": 274,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "This is the path, there is no other that leads to the purity of vision. Enter upon this path, and you will bewilder Māra."
+}
+},
+{
+"id": "20:275",
+"verse_number": 275,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "Walking in this path, you will make an end of suffering. Having discovered the path, having known the path, I have taught you the path."
+}
+},
+{
+"id": "20:276",
+"verse_number": 276,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "You yourselves must strive; the Tathāgatas only can show the way. Those who practise the path will be freed from the bonds of Māra."
+}
+},
+{
+"id": "20:277",
+"verse_number": 277,
+"story_title": "",
+"text": {
+"pali": "Bhikkhu vā bhikkhunī vā, upāsako vā upāsikā; Yo vā so paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ.",
+"en_translator_a": "Walking in this path, you will make an end of suffering. Having discovered the path, having known the path, I have taught you the path."
+}
+},
+{
+"id": "20:278",
+"verse_number": 278,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "You yourselves must strive; the Tathāgatas only can show the way. Those who practise the path will be freed from the bonds of Māra."
+}
+},
+{
+"id": "20:279",
+"verse_number": 279,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "Walking in this path, you will make an end of suffering. Having discovered the path, having known the path, I have taught you the path."
+}
+},
+{
+"id": "20:280",
+"verse_number": 280,
+"story_title": "",
+"text": {
+"pali": "Bhikkhu vā bhikkhunī vā, upāsako vā upāsikā; Yo vā so paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ.",
+"en_translator_a": "You yourselves must strive; the Tathāgatas only can show the way. Those who practise the path will be freed from the bonds of Māra."
+}
+},
+{
+"id": "20:281",
+"verse_number": 281,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "Walking in this path, you will make an end of suffering. Having discovered the path, having known the path, I have taught you the path."
+}
+},
+{
+"id": "20:282",
+"verse_number": 282,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "You yourselves must strive; the Tathāgatas only can show the way. Those who practise the path will be freed from the bonds of Māra."
+}
+},
+{
+"id": "20:283",
+"verse_number": 283,
+"story_title": "",
+"text": {
+"pali": "Bhikkhu vā bhikkhunī vā, upāsako vā upāsikā; Yo vā so paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ.",
+"en_translator_a": "Walking in this path, you will make an end of suffering. Having discovered the path, having known the path, I have taught you the path."
+}
+},
+{
+"id": "20:284",
+"verse_number": 284,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "You yourselves must strive; the Tathāgatas only can show the way. Those who practise the path will be freed from the bonds of Māra."
+}
+},
+{
+"id": "20:285",
+"verse_number": 285,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "Walking in this path, you will make an end of suffering. Having discovered the path, having known the path, I have taught you the path."
+}
+},
+{
+"id": "20:286",
+"verse_number": 286,
+"story_title": "",
+"text": {
+"pali": "Bhikkhu vā bhikkhunī vā, upāsako vā upāsikā; Yo vā so paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ.",
+"en_translator_a": "You yourselves must strive; the Tathāgatas only can show the way. Those who practise the path will be freed from the bonds of Māra."
+}
+},
+{
+"id": "20:287",
+"verse_number": 287,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "Walking in this path, you will make an end of suffering. Having discovered the path, having known the path, I have taught you the path."
+}
+},
+{
+"id": "20:288",
+"verse_number": 288,
+"story_title": "",
+"text": {
+"pali": "Maggaṁ paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ; Maggaṁ paññāya vimuttirāsaṅkataṁ, maggaṁ paññāya vimuttiṁ labhati.",
+"en_translator_a": "You yourselves must strive; the Tathāgatas only can show the way. Those who practise the path will be freed from the bonds of Māra."
+}
+},
+{
+"id": "20:289",
+"verse_number": 289,
+"story_title": "",
+"text": {
+"pali": "Bhikkhu vā bhikkhunī vā, upāsako vā upāsikā; Yo vā so paññāya bhāvetabbaṁ, maggaṁ paññāya dakkhineyyakammaṁ.",
+"en_translator_a": "Walking in this path, you will make an end of suffering. Having discovered the path, having known the path, I have taught you the path."
+}
+}
+]
+},
+{
+"id": 21,
+"title": "Chapter 21 - Varied Verses (Pakinnakavagga)",
+"verses": [
+{
+"id": "21:290",
+"verse_number": 290,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, verinesu avippayūta; Verinesu manussesu viharāma averino.",
+"en_translator_a": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought."
+}
+},
+{
+"id": "21:291",
+"verse_number": 291,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "If one speaks or acts with an impure mind, suffering follows him as the wheel that follows the foot of the ox."
+}
+},
+{
+"id": "21:292",
+"verse_number": 292,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "If one speaks or acts with a pure mind, happiness follows him as his own shadow that never leaves him."
+}
+},
+{
+"id": "21:293",
+"verse_number": 293,
+"story_title": "",
+"text": {
+"pali": "Jayaṁ ve rāsi manussā, jayatī va pajāyati; Tasmā jayaṁ virajeti, visamā pajāyati.",
+"en_translator_a": "He abused me, he beat me, he defeated me, he robbed me” — those who dwell on such thoughts will never become free from hatred."
+}
+},
+{
+"id": "21:294",
+"verse_number": 294,
+"story_title": "",
+"text": {
+"pali": "Na ve kadariyā devaṁ, na puthu janā pasaṁsati; Dhīro ca dānaṁ anumodamāno, ten’eva so hoti sukhī parattha.",
+"en_translator_a": "He abused me, he beat me, he defeated me, he robbed me” — those who do not dwell on such thoughts will truly become free from hatred."
+}
+},
+{
+"id": "21:295",
+"verse_number": 295,
+"story_title": "",
+"text": {
+"pali": "Sukhaṁ hi jīvitaṁ, lokassa sāmaññassa ca; Sukhaṁ hi jīvitaṁ, attānaṁ anurakkhiya.",
+"en_translator_a": "Returning hatred with hatred will never bring hatred to an end in this world; only by replacing hatred with love will hatred come to an end. This is an ancient and eternal law."
+}
+},
+{
+"id": "21:296",
+"verse_number": 296,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "People do not understand that quarrelsome behavior leads only to self-destruction; for those who realize this, quarrels quickly come to an end."
+}
+},
+{
+"id": "21:297",
+"verse_number": 297,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Just as a strong wind uproots a weak tree, so, whoever lives strictly for pleasure, who exercises no restraint over the senses, who eats to excess, who is lazy, who is inactive, such a one is easily overpowered by Māra — the Tempter, the Evil One."
+}
+},
+{
+"id": "21:298",
+"verse_number": 298,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Just as the wind cannot blow away a rocky mountain, so, whoever does not live strictly for pleasure, who exercises restraint over the senses, who does not eat to excess, who is full of faith, who disciplines the will, such a one is not overpowered by Māra."
+}
+},
+{
+"id": "21:299",
+"verse_number": 299,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Though one may put on the saffron-colored robe, if one has not removed impurities from the mind, if one is lacking in self-discipline and truthfulness, then such a one is not worthy of wearing the saffron-colored robe."
+}
+},
+{
+"id": "21:300",
+"verse_number": 300,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Whoever has purified the mind, who is firmly established in moral behavior, who possesses self-discipline and truthfulness, that one is indeed worthy of wearing the saffron-colored robe."
+}
+},
+{
+"id": "21:301",
+"verse_number": 301,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Those who imagine trivial things to be important or important things to be trivial are blinded by such wrong views and will never realize what is truly essential to living the Holy Life."
+}
+},
+{
+"id": "21:302",
+"verse_number": 302,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Those who have correctly understood what is trivial and what is important are not blinded by wrong views and have realized what is truly essential to living the Holy Life."
+}
+},
+{
+"id": "21:303",
+"verse_number": 303,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Just as rain seeps through an ill-thatched roof, so does lust seep through an ill-trained mind."
+}
+},
+{
+"id": "21:304",
+"verse_number": 304,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Just as rain cannot seep through a well-thatched roof, so can lust not seep through a well-trained mind."
+}
+},
+{
+"id": "21:305",
+"verse_number": 305,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "Perceiving the results of past wrong actions, those who have done evil suffer — those who have done evil are afflicted; indeed, they suffer here and now, even after death they suffer — they suffer in both places."
+}
+}
+]
+},
+{
+"id": 22,
+"title": "Chapter 22 - The Downward Course (Nirayavagga)",
+"verses": [
+{
+"id": "22:306",
+"verse_number": 306,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, verinesu avippayūta; Verinesu manussesu viharāma averino.",
+"en_translator_a": "The man who says, 'This is a pit, this is a snake,' says what is true. The man who speaks ill of the virtuous, goes to hell."
+}
+},
+{
+"id": "22:307",
+"verse_number": 307,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "Many low-born men clothed in the yellow robe are of evil character and uncontrolled. Bad is the life of these evil-doers, because of their evil deeds."
+}
+},
+{
+"id": "22:308",
+"verse_number": 308,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "Better to eat an iron ball, hot as blazing fire, than to live unchaste, uncontrolled, in the way of the wicked."
+}
+},
+{
+"id": "22:309",
+"verse_number": 309,
+"story_title": "",
+"text": {
+"pali": "Jayaṁ ve rāsi manussā, jayatī va pajāyati; Tasmā jayaṁ virajeti, visamā pajāyati.",
+"en_translator_a": "Four things burn the bodies of men: lying, hatred, lust, and the love of self."
+}
+},
+{
+"id": "22:310",
+"verse_number": 310,
+"story_title": "",
+"text": {
+"pali": "Na ve kadariyā devaṁ, na puthu janā pasaṁsati; Dhīro ca dānaṁ anumodamāno, ten’eva so hoti sukhī parattha.",
+"en_translator_a": "As soft and smooth as a hair is the fool's wisdom, the fool is wise in his own eyes."
+}
+},
+{
+"id": "22:311",
+"verse_number": 311,
+"story_title": "",
+"text": {
+"pali": "Sukhaṁ hi jīvitaṁ, lokassa sāmaññassa ca; Sukhaṁ hi jīvitaṁ, attānaṁ anurakkhiya.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "22:312",
+"verse_number": 312,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "22:313",
+"verse_number": 313,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "22:314",
+"verse_number": 314,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "22:315",
+"verse_number": 315,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "22:316",
+"verse_number": 316,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "22:317",
+"verse_number": 317,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "22:318",
+"verse_number": 318,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "22:319",
+"verse_number": 319,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+}
+]
+},
+{
+"id": 23,
+"title": "Chapter 23 - The Elephant (Nāgavagga)",
+"verses": [
+{
+"id": "23:320",
+"verse_number": 320,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, verinesu avippayūta; Verinesu manussesu viharāma averino.",
+"en_translator_a": "I am a fool, I do not know the truth of this world; I am a fool, I do not know the truth of this world."
+}
+},
+{
+"id": "23:321",
+"verse_number": 321,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "23:322",
+"verse_number": 322,
+"story_title": "",
+"text": {
+"pali": "Susukhaṁ vata jīvāma, ātapesu anāpīṇḍiyā; Ātapesu viharāma, appīṇḍiyā svatanā vayam.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "23:323",
+"verse_number": 323,
+"story_title": "",
+"text": {
+"pali": "Jayaṁ ve rāsi manussā, jayatī va pajāyati; Tasmā jayaṁ virajeti, visamā pajāyati.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "23:324",
+"verse_number": 324,
+"story_title": "",
+"text": {
+"pali": "Na ve kadariyā devaṁ, na puthu janā pasaṁsati; Dhīro ca dānaṁ anumodamāno, ten’eva so hoti sukhī parattha.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "23:325",
+"verse_number": 325,
+"story_title": "",
+"text": {
+"pali": "Sukhaṁ hi jīvitaṁ, lokassa sāmaññassa ca; Sukhaṁ hi jīvitaṁ, attānaṁ anurakkhiya.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "23:326",
+"verse_number": 326,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "23:327",
+"verse_number": 327,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "23:328",
+"verse_number": 328,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "23:329",
+"verse_number": 329,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "23:330",
+"verse_number": 330,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "23:331",
+"verse_number": 331,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+},
+{
+"id": "23:332",
+"verse_number": 332,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, having understood the Dhamma, delights in the Dhamma, delights in the Sangha. The wise man delights in the destruction of craving."
+}
+},
+{
+"id": "23:333",
+"verse_number": 333,
+"story_title": "",
+"text": {
+"pali": "Yo saṇhaṁ bhāsamāṇo, piyaṁ vā hadayaṁ sukhaṁ; Hitvā kāmaṁ ca dosaṁ ca, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The wise man, self-reliant, looks to the end of the journey."
+}
+}
+]
+},
+{
+"id": 24,
+"title": "Chapter 24 - Craving (Taṇhā Vagga)",
+"verses": [
+{
+"id": "24:334",
+"verse_number": 334,
+"story_title": "",
+"text": {
+"pali": "Manujassa pamattacārino, taṇhā vaḍḍhati māluvā viya; So plavatī hīrāva babbharū, dukkhāni saṁsāradukkāni tīṇi.",
+"en_translator_a": "The craving of one given to heedless living grows like a creeper. He runs from life to life like a monkey seeking fruit in the forest."
+}
+},
+{
+"id": "24:335",
+"verse_number": 335,
+"story_title": "",
+"text": {
+"pali": "Yaṁ esā sahu dhīraṁ, taṇhāpīḷanaṁ duraccayaṁ; Kāmehi cittaṁ vasaṁ, vappaṁ va āpaṇā care.",
+"en_translator_a": "Whoever is overcome by this wretched, entangled craving, his sorrows grow like grass after the rains."
+}
+},
+{
+"id": "24:336",
+"verse_number": 336,
+"story_title": "",
+"text": {
+"pali": "Yo cetaṁ malaṁ durakkataṁ, taṇhaṁ samūhatā asubhā; Sa ve dukkham anāgataṁ, sabbasaṁyojanaṁ chetvā.",
+"en_translator_a": "But whoever overcomes this wretched craving, so difficult to overcome, sorrows fall away from him, like water from a lotus leaf."
+}
+},
+{
+"id": "24:337",
+"verse_number": 337,
+"story_title": "",
+"text": {
+"pali": "Taṁ kho ahaṁ brūmi brāhmaṇaṁ, yo’dha vejjaṁ pajānāti; Lokasmiṁ pūtimaccherā, saṁkiliṭṭhaṁ pahāy’idha.",
+"en_translator_a": "This I call a sage: one who knows the meaning of this for himself, who has put away the defilement of craving, who has cut the bond of Māra."
+}
+},
+{
+"id": "24:338",
+"verse_number": 338,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:339",
+"verse_number": 339,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:340",
+"verse_number": 340,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:341",
+"verse_number": 341,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:342",
+"verse_number": 342,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:343",
+"verse_number": 343,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:344",
+"verse_number": 344,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:345",
+"verse_number": 345,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:346",
+"verse_number": 346,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:347",
+"verse_number": 347,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:348",
+"verse_number": 348,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:349",
+"verse_number": 349,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:350",
+"verse_number": 350,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:351",
+"verse_number": 351,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:352",
+"verse_number": 352,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:353",
+"verse_number": 353,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:354",
+"verse_number": 354,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:355",
+"verse_number": 355,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:356",
+"verse_number": 356,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:357",
+"verse_number": 357,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:358",
+"verse_number": 358,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+},
+{
+"id": "24:359",
+"verse_number": 359,
+"story_title": "",
+"text": {
+"pali": "Yathāpi mūle anupaddave daḷhe, chinnaṁ na ruṇṇehi phalitaṁ vaḷambati; Evampi khīṇāsavaṁ visaṁyuttaṁ, taṇhāya mūlaṁ pahataṁ tathāgataṁ.",
+"en_translator_a": "As a tree with root cut down, that does not spring up again even if it is full of leaves and branches, so the Tathāgata, having cut off craving, is not born again."
+}
+}
+]
+},
+{
+"id": 25,
+"title": "Chapter 25 - The Bhikkhu (Bhikkhuvagga)",
+"verses": [
+{
+"id": "25:360",
+"verse_number": 360,
+"story_title": "",
+"text": {
+"pali": "Cakkhunā saṁvaro sādhu, sādhu sotena saṁvaro; Ghānena saṁvaro sādhu, sādhu jivhāya saṁvaro.",
+"en_translator_a": "Good is restraint of the eye. Good is restraint of the ear. Good is restraint of the nose. Good is restraint of the tongue."
+}
+},
+{
+"id": "25:361",
+"verse_number": 361,
+"story_title": "",
+"text": {
+"pali": "Kāyena saṁvaro sādhu, sādhu vācāya saṁvaro; Manasā saṁvaro sādhu, sādhu sabbattha saṁvaro; Sabbattha saṁvuto bhikkhu, sabba dukkhā pamuccati.",
+"en_translator_a": "Good is restraint of the body. Good is restraint of speech. Good is restraint of the mind. Restraint everywhere is good. The bhikkhu restrained in all things is freed from all suffering."
+}
+},
+{
+"id": "25:362",
+"verse_number": 362,
+"story_title": "",
+"text": {
+"pali": "Hatthasaṁyato pādasaṁyato, vācāsaṁyato saṁyatuttamo; Ajjhattarato samāhito, eko santusito tam āhu bhikkhuṁ.",
+"en_translator_a": "He who controls his hand, he who controls his feet, he who controls his speech, he who is highly controlled, he who delights inwardly, who is concentrated, who walks alone, him they call a bhikkhu."
+}
+},
+{
+"id": "25:363",
+"verse_number": 363,
+"story_title": "",
+"text": {
+"pali": "Yo mukhasaṁyato bhikkhu, mantabhāṇī anuddhato; Atthaṁ dhammaṁ ca dīpeti, madhuraṁ tassa bhāsitaṁ.",
+"en_translator_a": "The bhikkhu who keeps his tongue in check, who speaks wisely, who is not proud, who explains the meaning of the Dhamma — sweet is his speech."
+}
+},
+{
+"id": "25:364",
+"verse_number": 364,
+"story_title": "",
+"text": {
+"pali": "Dhammārāmo dhammarati, dhammaṁ anuvicintayaṁ; Dhammaṁ anussaraṁ bhikkhu, saddhammā na parihāyati.",
+"en_translator_a": "The bhikkhu who dwells in the Dhamma, who delights in the Dhamma, who meditates on the Dhamma, who remembers the Dhamma, he does not fall away from the sublime Dhamma."
+}
+},
+{
+"id": "25:365",
+"verse_number": 365,
+"story_title": "",
+"text": {
+"pali": "Salābhaṁ nātimaññeyya, nāññesaṁ pihayā care; Aññesaṁ pihayaṁ bhikkhu, samādhiṁ nādhigacchati.",
+"en_translator_a": "Let him not despise what he receives, nor let him envy others. The bhikkhu who envies others does not attain concentration."
+}
+},
+{
+"id": "25:366",
+"verse_number": 366,
+"story_title": "",
+"text": {
+"pali": "Appalābho’pi ce bhikkhu, salābhaṁ nātimaññati; Taṁ ve devā’pi pasaṁsanti, suddhājīviṁ atanditaṁ.",
+"en_translator_a": "Though he receives but little, if a bhikkhu does not despise what he receives, even the gods praise him, the pure-lived, tireless one."
+}
+},
+{
+"id": "25:367",
+"verse_number": 367,
+"story_title": "",
+"text": {
+"pali": "Sabbaso nāmarūpasmiṁ, yassa natthi mamāyitaṁ; Asatā ca na socati, sa ve bhikkhū’ti vuccati.",
+"en_translator_a": "He who has no attachment to name and form, who does not grieve over what is not, him I call a bhikkhu."
+}
+},
+{
+"id": "25:368",
+"verse_number": 368,
+"story_title": "",
+"text": {
+"pali": "Mettāvihārī yo bhikkhu, pasanno buddhasāsane; Adhigacche padaṁ santaṁ, saṁkhārūpasamaṁ sukhaṁ.",
+"en_translator_a": "The bhikkhu who abides in loving-kindness, who is devoted to the Buddha's teaching, attains the peace of Nibbana, the bliss of the cessation of formations."
+}
+},
+{
+"id": "25:369",
+"verse_number": 369,
+"story_title": "",
+"text": {
+"pali": "Siñca bhikkhu imaṁ nāvaṁ, sittā te lahum essati; Chetvā rāgaṁ ca dosaṁ ca, tato nibbānam ehisi.",
+"en_translator_a": "Empty this boat, O bhikkhu! When emptied it will go quickly; having cut off lust and hatred, then you will go to Nibbana."
+}
+},
+{
+"id": "25:370",
+"verse_number": 370,
+"story_title": "",
+"text": {
+"pali": "Pañca chinde pañca jahe, pañca c’uttari bhāvaye; Pañca saṅgātigo bhikkhu, oghatiṇṇo’ti vuccati.",
+"en_translator_a": "Five cut off, five lay down, five further cultivate. The bhikkhu who has gone beyond the five attachments is called 'a crosser of the flood'."
+}
+},
+{
+"id": "25:371",
+"verse_number": 371,
+"story_title": "",
+"text": {
+"pali": "Jhāya bhikkhu mā ca pāmado, mā te kāmagṇe bhamassu cittaṁ; Mā lohaguḷaṁ gilī pamatto, mā kandi dukkham idaṁ ti ḍayhamāno.",
+"en_translator_a": "Meditate, O bhikkhu, do not be heedless. Do not let your mind whirl in the tangles of the senses. Do not swallow an iron ball like a heedless one. Do not burn, crying, 'This is suffering.'"
+}
+},
+{
+"id": "25:372",
+"verse_number": 372,
+"story_title": "",
+"text": {
+"pali": "Natthi jhānaṁ apaññassa, paññā natthi ajhāyato; Yamhi jhānañca paññā ca, sa ve nibbānasantike.",
+"en_translator_a": "There is no concentration for him who lacks wisdom, no wisdom for him who lacks concentration. In whom are both concentration and wisdom, he is indeed near unto Nibbana."
+}
+},
+{
+"id": "25:373",
+"verse_number": 373,
+"story_title": "",
+"text": {
+"pali": "Suññāgāraṁ paviṭṭhassa, santacittassa bhikkhuno; Amānusī ratī hoti, sammā dhammaṁ vipassato.",
+"en_translator_a": "For him who enters an empty hut, who has a calm mind, who is heedful, superhuman joy comes to pass, for he sees the Dhamma aright."
+}
+},
+{
+"id": "25:374",
+"verse_number": 374,
+"story_title": "",
+"text": {
+"pali": "Yato yato sammasati, khandhānaṁ udayabbayaṁ; Labhati pītipāmojjaṁ, amataṁ taṁ vijānataṁ.",
+"en_translator_a": "And whenever he sees the rise and fall of the aggregates, he gains joy and rapture; that is the way to the Deathless."
+}
+},
+{
+"id": "25:375",
+"verse_number": 375,
+"story_title": "",
+"text": {
+"pali": "Tatrāyam ādi bhavati, idha paññassa bhikkhuno; Indriyagutti santuṭṭhi, pātimokkhe ca saṁvaro; Mitte bhajassu kalyāne, suddh’ājīve atandite.",
+"en_translator_a": "This is the beginning for a wise bhikkhu: sense-control, contentment, the observance of the Pātimokkha, restraint in the company of good friends, heedfulness."
+}
+},
+{
+"id": "25:376",
+"verse_number": 376,
+"story_title": "",
+"text": {
+"pali": "Paṭisanthāravuty’assa, ācārakusalo siyā; Tato pāmojjabahulo, dukkhass’antaṁ karissati.",
+"en_translator_a": "Let him be hospitable, skilful in conduct, so that good people will delight in him, and the devas will revere him."
+}
+},
+{
+"id": "25:377",
+"verse_number": 377,
+"story_title": "",
+"text": {
+"pali": "Vassikā viya pupphāni, maddavāni pamuñcati; Evaṁ rāgaṁ ca dosaṁ ca, vippamuñcetha bhikkhavo.",
+"en_translator_a": "As the jasmine creeper sheds its withered flowers, even so should bhikkhus shed lust and hatred."
+}
+},
+{
+"id": "25:378",
+"verse_number": 378,
+"story_title": "",
+"text": {
+"pali": "Santakāyo santavāco, santavā susamāhito; Vantalokāmiso bhikkhu, upasanto’ti vuccati.",
+"en_translator_a": "The bhikkhu who is calm in body, in speech, in mind, who is well-composed, who has renounced the allurements of the world, is called 'peaceful'."
+}
+},
+{
+"id": "25:379",
+"verse_number": 379,
+"story_title": "",
+"text": {
+"pali": "Attanā coday’attānaṁ, paṭimāse attam attanā; So attagutto satimā, sukhaṁ bhikkhu vihāhisi.",
+"en_translator_a": "By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one cleansed. Purity and impurity depend on oneself. No one can purify another."
+}
+},
+{
+"id": "25:380",
+"verse_number": 380,
+"story_title": "",
+"text": {
+"pali": "Attā hi attano nātho, attā hi attano gati; Tasmā saññamay’attānaṁ, assaṁ bhadraṁ’va vāṇijo.",
+"en_translator_a": "Thou thyself shouldst be thy refuge; thou thyself shouldst be thy goal. Therefore, O bhikkhu, be thy own refuge, work out thine own salvation with diligence."
+}
+},
+{
+"id": "25:381",
+"verse_number": 381,
+"story_title": "",
+"text": {
+"pali": "Pāmojjabahulo bhikkhu, pasanno buddhasāsane; Adhigacche padaṁ santaṁ, saṁkhārūpasamaṁ sukhaṁ.",
+"en_translator_a": "The bhikkhu who is full of joy, who delights in the Buddha's teaching, attains the peace of Nibbana, the bliss of the cessation of formations."
+}
+},
+{
+"id": "25:382",
+"verse_number": 382,
+"story_title": "",
+"text": {
+"pali": "Yo have daharo bhikkhu, yuñjati buddhasāsane; So imaṁ lokaṁ pabhāseti, abbhā mutto’va candimā.",
+"en_translator_a": "Though young in years, a bhikkhu who devotes himself to the Buddha's teaching lights up the world, as the moon freed from clouds shines forth."
+}
+}
+]
+},
+{
+"id": 26,
+"title": "Chapter 26 - The Brāhmaṇa (Brāhmaṇavagga)",
+"verses": [
+{
+"id": "26:383",
+"verse_number": 383,
+"story_title": "",
+"text": {
+"pali": "Chinda sotaṁ parakkamma, kāme panuda brāhmaṇa; Saṁkhārānaṁ khayaṁ ñatvā, akataññū’si brāhmaṇa.",
+"en_translator_a": "Cut off the stream of craving, O brāhmaṇa, and abandon sense-desires. Having known the destruction of conditioned things, become a knower of the Uncreated."
+}
+},
+{
+"id": "26:384",
+"verse_number": 384,
+"story_title": "",
+"text": {
+"pali": "Yadā dvayesu dhammesu, samāhitta cittaṁ te; Atha’ssa sabbe saṁyogā, atthaṁ gacchanti jānato.",
+"en_translator_a": "When the brāhmaṇa has reached the other shore of the two streams, then all the fetters of the brāhmaṇa cease to exist."
+}
+},
+{
+"id": "26:385",
+"verse_number": 385,
+"story_title": "",
+"text": {
+"pali": "Yassa pāraṁ apāraṁ vā, pārāpāraṁ na vijjati; Vītaddaraṁ visaṁyuttaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He for whom there is neither the hither nor the further shore, nor both, him who is free from fear and from fetters, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:386",
+"verse_number": 386,
+"story_title": "",
+"text": {
+"pali": "Jhāyiṁ virajam āsīnaṁ, katakiccaṁ anāsavaṁ; Uttamatthaṁ anuppattaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who is meditative, stainless, and sits in seclusion, who has done his work and is free from the āsavas, who has reached the highest goal, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:387",
+"verse_number": 387,
+"story_title": "",
+"text": {
+"pali": "Divā tapati ādicco, rattiṁ ābhāti candimā; Sannaddho khattiyo tapati, jhāyī tapati brāhmaṇo; Atha sabbam ahorattiṁ, buddho tapati tejasā.",
+"en_translator_a": "The sun blazes by day, the moon shines by night, the warrior blazes in armor, the brāhmaṇa meditates in samādhi; but all day and night the Buddha shines in glory."
+}
+},
+{
+"id": "26:388",
+"verse_number": 388,
+"story_title": "",
+"text": {
+"pali": "Bāhitapāpo’ti brāhmaṇo, samacariyā samaṇo’ti vuccati; Pabbājayaṁ attano malaṁ, tasmā pabbajito’ti vuccati.",
+"en_translator_a": "He who has destroyed all evil, who is free from moral defilements, who is wise, who has realized the Truth, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:389",
+"verse_number": 389,
+"story_title": "",
+"text": {
+"pali": "Na brāhmaṇassa pahareyya, n’āssa muñcetha brāhmaṇo; Dhī brāhmaṇassa hantāraṁ, tato dhī yassa muñcati.",
+"en_translator_a": "The brāhmaṇa who does not harm with his body, speech, or mind, who is restrained in these three respects, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:390",
+"verse_number": 390,
+"story_title": "",
+"text": {
+"pali": "Na brāhmaṇass’etad akiñci seyyo, yadā nisedho manaso piyehi; Yato yato hiṁsamano nivattati, tato tato sammatimeva dukkhaṁ.",
+"en_translator_a": "The brāhmaṇa who, having cut off the strap, the thong, the cord, and the bridle, has thrown off the bar, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:391",
+"verse_number": 391,
+"story_title": "",
+"text": {
+"pali": "Yassa kāyena vācāya, manasā natthi dukkaṭaṁ; Saṁvutaṁ tīhi ṭhānehi, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who endures abuse, beating, and imprisonment without anger, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:392",
+"verse_number": 392,
+"story_title": "",
+"text": {
+"pali": "Yamhā dhammaṁ vijāneyya, sammāsambuddhadesitaṁ; Sakkaccaṁ taṁ namasseyya, aggihuttaṁ’va brāhmaṇo.",
+"en_translator_a": "The brāhmaṇa who is free from anger, who practices austerity, who is virtuous and free from craving, who controls the senses, this body is his last."
+}
+},
+{
+"id": "26:393",
+"verse_number": 393,
+"story_title": "",
+"text": {
+"pali": "Na jaṭāhi na gottena, na jaccā hoti brāhmaṇo; Yamhi saccaṁ ca dhammo ca, so sucī so ca brāhmaṇo.",
+"en_translator_a": "He who does not cling to pleasures, like water does not cling to a lotus leaf, or a mustard seed to the point of an awl, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:394",
+"verse_number": 394,
+"story_title": "",
+"text": {
+"pali": "Kiṁ te jaṭāhi dummedha, kiṁ te ajinasāṭiyā; Abbhantaraṁ te gahanaṁ, bāhiraṁ parimajjasi.",
+"en_translator_a": "He who knows the end of suffering in this world, who has laid down the burden, who is free from the fetters, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:395",
+"verse_number": 395,
+"story_title": "",
+"text": {
+"pali": "Paṁsukūladharaṁ jantuṁ, kisaṁ dhamanisanthataṁ; Ekaṁ vanasmiṁ jhāyantaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "The brāhmaṇa whose wisdom is profound, whose understanding is deep, who knows the right path from the wrong path, who has reached the highest goal, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:396",
+"verse_number": 396,
+"story_title": "",
+"text": {
+"pali": "Na c’āhaṁ brāhmaṇaṁ brūmi, yonijaṁ mattisambhavaṁ; Bhovādi nāma so hoti, sa ce hoti sakiñcano; Akiñcanaṁ anādānaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "The brāhmaṇa who has few desires, who is detached from sense-desires, who has renounced all attachments, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:397",
+"verse_number": 397,
+"story_title": "",
+"text": {
+"pali": "Sabbasaṁyojanaṁ chetvā, yo ve na paritassati; Saṅgātigaṁ visaṁyuttaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "The brāhmaṇa who has laid down the rod towards all beings, who does not kill or cause to kill, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:398",
+"verse_number": 398,
+"story_title": "",
+"text": {
+"pali": "Chetvā naddhiṁ varattaṁ ca, sandānaṁ sahanukkamaṁ; Ukkhittapaḷighaṁ buddhaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "The brāhmaṇa who is friendly among the hostile, peaceful among the violent, who is without attachment among the attached, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:399",
+"verse_number": 399,
+"story_title": "",
+"text": {
+"pali": "Akkosaṁ vadhabandhaṁ ca, aduṭṭho yo titikkhati; Khantībalaṁ balāṇīkaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "From whom lust and hatred, pride and deceit have fallen away like the mustard seed from the point of an awl, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:400",
+"verse_number": 400,
+"story_title": "",
+"text": {
+"pali": "Akkodhanaṁ vatavantaṁ, sīlavantaṁ anussadaṁ; Dantaṁ antimasārīraṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who speaks gentle, instructive, true words, who by his speech offends no one, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:401",
+"verse_number": 401,
+"story_title": "",
+"text": {
+"pali": "Vāripokkharapatt’eva, āragger’iva sāsapo; Yo na limpati kāmesu, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who takes nothing in the world that is not given, whether it be long or short, small or great, fair or foul, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:402",
+"verse_number": 402,
+"story_title": "",
+"text": {
+"pali": "Yo dukkhassa pajānāti, idh’eva khayam attano; Pannabhāraṁ visaṁyuttaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who is free from desires for this world or for the next, who is free from cravings and moral defilements, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:403",
+"verse_number": 403,
+"story_title": "",
+"text": {
+"pali": "Gambhīrapaññaṁ medhāviṁ, maggāmaggassa kovidaṁ; Uttamatthaṁ anuppattaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who is free from craving, who, through knowledge of the Four Noble Truths, is free from doubt, who has realized the Deathless, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:404",
+"verse_number": 404,
+"story_title": "",
+"text": {
+"pali": "Asaṁsaṭṭhaṁ gahaṭṭhehi, anāgārehi c’ūbhayaṁ; Anokasārim appicchaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who, in this world, has gone beyond both good and evil, who is free from sorrow, who is pure, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:405",
+"verse_number": 405,
+"story_title": "",
+"text": {
+"pali": "Nidhāya daṇḍaṁ bhūtesu, tasesu thāvaresu ca; Yo na hanti na ghāteti, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who is pure like a cloudless sky, who is serene and unagitated, in whom craving for existence is extinguished, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:406",
+"verse_number": 406,
+"story_title": "",
+"text": {
+"pali": "Aviruddhaṁ viruddhesu, attadaṇḍesu nibbutaṁ; Sādānesu anādānaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has crossed the difficult path, the flood, the illusion, the bonds, who has attained the other shore, who is meditative, free from doubt, unattached, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:407",
+"verse_number": 407,
+"story_title": "",
+"text": {
+"pali": "Yassa rāgo ca doso ca, māno makkho ca pātito; Sāsapor’iva āraggā, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has abandoned sensual pleasures, who has become a homeless one, who has destroyed craving for existence, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:408",
+"verse_number": 408,
+"story_title": "",
+"text": {
+"pali": "Akakkasaṁ viññāpaniṁ, giraṁ saccam udīraye; Yāya n’ābhisaje kañci, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has abandoned craving, who has become a homeless one, who has destroyed craving for existence, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:409",
+"verse_number": 409,
+"story_title": "",
+"text": {
+"pali": "Yo’dha dīghaṁ va rassaṁ vā, aṇuṁ thūlaṁ subhāsubhaṁ; Loke adinnaṁ nādiyati, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has abandoned human bonds, who has transcended divine bonds, who is free from all bonds, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:410",
+"verse_number": 410,
+"story_title": "",
+"text": {
+"pali": "Āsā yassa na vijjanti, asmiṁ loke paramhi ca; Nirasāsaṁ visaṁyuttaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has abandoned delight in existence and non-existence, who has no more attachment, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:411",
+"verse_number": 411,
+"story_title": "",
+"text": {
+"pali": "Yassālayā na vijjanti, aññāya akathaṁkathī; Amatogadhaṁ anuppattaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who, like a tameless horse, is free from pride and attachment, who has conquered the intoxicants, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:412",
+"verse_number": 412,
+"story_title": "",
+"text": {
+"pali": "Yo’dha puññaṁ ca pāpaṁ ca, ubho saṅgaṁ upaccagā; Asokaṁ virajaṁ suddhaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who knows past lives, who sees heaven and hell, who has reached the end of births, who has perfect wisdom, such a sage I call a brāhmaṇa."
+}
+},
+{
+"id": "26:413",
+"verse_number": 413,
+"story_title": "",
+"text": {
+"pali": "Candaṁ’va vimalaṁ suddhaṁ, vippasannaṁ anāvilaṁ; Nandībhavaparikkhīṇaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has cut off all fetters, who is free from sorrow, who has destroyed the bond of rebirth, who is detached, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:414",
+"verse_number": 414,
+"story_title": "",
+"text": {
+"pali": "Yo imaṁ paḷipathaṁ duggaṁ, saṁsāraṁ moham accagā; Tiṇṇo pāragato jhāyī, anejo akathaṁkathī; Anupādāya nibbuto, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has no clinging to aggregates past, future, or present, who is free from attachment, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:415",
+"verse_number": 415,
+"story_title": "",
+"text": {
+"pali": "Yo’dha kāme pahantvāna, anāgāro paribbaje; Kāmabhavaparikkhīṇaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "The fearless bull, noble, heroic, who has conquered Māra, who is free from craving, who has cleansed himself of defilements, who knows the Four Noble Truths, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:416",
+"verse_number": 416,
+"story_title": "",
+"text": {
+"pali": "Yo’dha taṇhaṁ pahatvāna, anāgāro paribbaje; Taṇhābhavaparikkhīṇaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who knows past lives, who sees heaven and hell, who has reached the end of births, who has perfect wisdom, such a sage I call a brāhmaṇa."
+}
+},
+{
+"id": "26:417",
+"verse_number": 417,
+"story_title": "",
+"text": {
+"pali": "Hitvā mānusakaṁ yogaṁ, dibbaṁ yogaṁ upaccagā; Sabbayogavisaṁyuttaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has cut off all fetters, who is free from sorrow, who has destroyed the bond of rebirth, who is detached, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:418",
+"verse_number": 418,
+"story_title": "",
+"text": {
+"pali": "Hitvā ratiṁ ca aratiṁ ca, sītibhūtaṁ nirūpadhiṁ; Sabbalokābhibhuṁ vīraṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has no clinging to aggregates past, future, or present, who is free from attachment, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:419",
+"verse_number": 419,
+"story_title": "",
+"text": {
+"pali": "Cutiṁ yo vedi sattānaṁ, upapattiṁ ca sabbaso; Asattaṁ sugataṁ buddhaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "The fearless bull, noble, heroic, who has conquered Māra, who is free from craving, who has cleansed himself of defilements, who knows the Four Noble Truths, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:420",
+"verse_number": 420,
+"story_title": "",
+"text": {
+"pali": "Yassa gatiṁ na jānanti, devā gandhabbamānusā; Khīṇāsavaṁ arahantaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who knows past lives, who sees heaven and hell, who has reached the end of births, who has perfect wisdom, such a sage I call a brāhmaṇa."
+}
+},
+{
+"id": "26:421",
+"verse_number": 421,
+"story_title": "",
+"text": {
+"pali": "Yassa pure ca pacchā ca, majjhe ca natthi kiñcanaṁ; Akiñcanaṁ anādānaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has cut off all fetters, who is free from sorrow, who has destroyed the bond of rebirth, who is detached, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:422",
+"verse_number": 422,
+"story_title": "",
+"text": {
+"pali": "Usabhaṁ pavaraṁ vīraṁ, mahesiṁ vijitāvinaṁ; Anejaṁ nahātakaṁ buddhaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "He who has no clinging to aggregates past, future, or present, who is free from attachment, him I call a brāhmaṇa."
+}
+},
+{
+"id": "26:423",
+"verse_number": 423,
+"story_title": "",
+"text": {
+"pali": "Pubbenivāsaṁ yo vedi, saggāpāyaṁ ca passati; Atho jātikkhayaṁ patto, abhiññāvosito muni; Sabbavositavosānaṁ, tam ahaṁ brūmi brāhmaṇaṁ.",
+"en_translator_a": "The fearless bull, noble, heroic, who has conquered Māra, who is free from craving, who has cleansed himself of defilements, who knows the Four Noble Truths, him I call a brāhmaṇa."
+}
+}
+]
+}
+]
+}
