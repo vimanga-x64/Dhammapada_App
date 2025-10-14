@@ -6,6 +6,9 @@ import '../providers/progress_provider.dart';
 import 'verse_detail_screen.dart';
 import 'chapter_list_screen.dart';
 import 'bookmarks_screen.dart';
+import 'notification_settings_screen.dart';
+import 'profile_screen.dart'; 
+import '../widgets/daily_verse_card.dart';
 
 class HomeTabScreen extends StatelessWidget {
   const HomeTabScreen({super.key});
@@ -23,17 +26,30 @@ class HomeTabScreen extends StatelessWidget {
       appBar: AppBar(
         title: Text(_getGreeting()),
         actions: [
-          IconButton(
-            icon: const Icon(Icons.notifications_none),
+          // Enhanced notification icon with badge
+          NotificationIconWithBadge(
+            notificationCount: 3, // You can get this from a provider or service
             onPressed: () {
-              // TODO: Handle notification tap
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const NotificationSettingsScreen(),
+                ),
+              );
             },
           ),
+          // Profile icon
           IconButton(
             icon: const Icon(Icons.account_circle_outlined),
             onPressed: () {
-              // TODO: Handle profile tap
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const ProfileTabScreen(),
+                ),
+              );
             },
+            tooltip: 'Profile',
           ),
         ],
         backgroundColor: Theme.of(context).scaffoldBackgroundColor,
@@ -44,6 +60,11 @@ class HomeTabScreen extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            // Daily Verse Card
+            const DailyVerseCard(),
+
+            const SizedBox(height: 32),
+
             // Featured Verse of the Day
             Consumer<DhammapadaProvider>(
               builder: (context, provider, child) {
@@ -54,9 +75,9 @@ class HomeTabScreen extends StatelessWidget {
                 return FeaturedVerseCard(verse: verse);
               },
             ),
-            
+
             const SizedBox(height: 32),
-            
+
             // Quick Actions Section
             Text(
               'Quick Access',
@@ -66,9 +87,9 @@ class HomeTabScreen extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const QuickActionsGrid(),
-            
+
             const SizedBox(height: 32),
-            
+
             // Today's Reading Section
             Text(
               'Continue Reading',
@@ -78,9 +99,9 @@ class HomeTabScreen extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const ContinueReadingCard(),
-            
+
             const SizedBox(height: 32),
-            
+
             // Statistics Card
             const ReadingStatsCard(),
           ],
@@ -503,6 +524,57 @@ class _StatItem extends StatelessWidget {
           textAlign: TextAlign.center,
         ),
       ],
+    );
+  }
+}
+
+// Add this widget to your home_tab_screen.dart file:
+
+class NotificationIconWithBadge extends StatelessWidget {
+  final int notificationCount;
+  final VoidCallback onPressed;
+
+  const NotificationIconWithBadge({
+    super.key,
+    required this.notificationCount,
+    required this.onPressed,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return IconButton(
+      icon: Stack(
+        children: [
+          const Icon(Icons.notifications_none),
+          if (notificationCount > 0)
+            Positioned(
+              right: 0,
+              top: 0,
+              child: Container(
+                padding: const EdgeInsets.all(2),
+                decoration: BoxDecoration(
+                  color: Colors.red,
+                  borderRadius: BorderRadius.circular(10),
+                ),
+                constraints: const BoxConstraints(
+                  minWidth: 16,
+                  minHeight: 16,
+                ),
+                child: Text(
+                  notificationCount > 99 ? '99+' : notificationCount.toString(),
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontSize: 10,
+                    fontWeight: FontWeight.bold,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+              ),
+            ),
+        ],
+      ),
+      onPressed: onPressed,
+      tooltip: 'Notifications',
     );
   }
 }

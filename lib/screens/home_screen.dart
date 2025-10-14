@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
     HomeTabScreen(),
     DiscoverScreen(),
     LibraryScreen(),
-    ProfileScreen(),
+    ProfileTabScreen(),
   ];
 
   void _onItemTapped(int index) {

@@ -1,9 +1,12 @@
 import 'package:flutter_tts/flutter_tts.dart';
 
 class TtsService {
-  TtsService._();
-  static final TtsService instance = TtsService._();
-
+  static final TtsService _instance = TtsService._internal();
+  factory TtsService() => _instance;
+  TtsService._internal();
+  
+  static TtsService get instance => _instance;
+  
   final FlutterTts _tts = FlutterTts();
   bool _isSpeaking = false;
   bool get isSpeaking => _isSpeaking;
@@ -75,5 +78,28 @@ class TtsService {
     }
     if (buf.isNotEmpty) parts.add(buf.toString().trim());
     return parts;
+  }
+
+  // Add this method
+  Future<List<Map<String, String>>> getAvailableVoices() async {
+    try {
+      final voices = await _tts.getVoices;
+      if (voices != null && voices is List) {
+        return voices.map<Map<String, String>>((voice) {
+          return {
+            'name': voice['name']?.toString() ?? 'Unknown Voice',
+            'locale': voice['locale']?.toString() ?? 'Unknown Locale',
+          };
+        }).toList();
+      }
+    } catch (e) {
+      print('Error getting voices: $e');
+    }
+    
+    // Return default voices if API fails
+    return [
+      {'name': 'Default', 'locale': 'en-US'},
+      {'name': 'System Voice', 'locale': 'en-US'},
+    ];
   }
 }
